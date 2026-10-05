@@ -15,6 +15,7 @@ Jeu de plateforme 2D inspiré de l'immigration au Québec dans les années 1970.
 - [Technologies](#technologies)
 - [Crédits](#crédits)
 - [Équipe](#équipe)
+- [Licence](#licence)
 
 ## Aperçu
 
@@ -86,3 +87,13 @@ cd migrasyon-2D
 
 - El Ghazi Amine
 - Laurin Jason
+
+## Licence
+
+Copyright © 2026 El Ghazi Amine, Laurin Jason. Tous droits réservés.
+
+Ce projet est protégé par la Loi sur le droit d'auteur (L.R.C. 1985, ch. C-42). Il est interdit de copier, modifier, distribuer, vendre ou réutiliser ce travail (code, sprites, animations), en tout ou en partie, sans l'autorisation écrite des auteurs. Le code est visible à des fins de consultation et d'évaluation uniquement.
+
+Les ressources de tiers (par exemple le City Street Tileset Pack) restent soumises à leurs propres licences.
+
+Cette licence est régie par les lois en vigueur au Québec et les lois fédérales du Canada qui s'y appliquent.
