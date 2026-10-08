@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6a14a3a71f1765540b0dcf203178cbe0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1395434851130389843
+    second: radiology_0
+  - first:
+      213: 8738435194817249300
+    second: radiology_1
+  - first:
+      213: -756386465347558849
+    second: radiology_2
+  - first:
+      213: -1005240107597303925
+    second: radiology_3
+  - first:
+      213: -7122064481335967663
+    second: radiology_4
+  - first:
+      213: 39435205272885530
+    second: radiology_5
+  - first:
+      213: -999558080027756586
+    second: radiology_6
+  - first:
+      213: -8735388391801430475
+    second: radiology_7
+  - first:
+      213: -8908614630934130305
+    second: radiology_8
+  - first:
+      213: -6054638485975187827
+    second: radiology_9
+  - first:
+      213: 8309257354603185215
+    second: radiology_10
+  - first:
+      213: 8389722562159906386
+    second: radiology_11
+  - first:
+      213: 6305498977195704014
+    second: radiology_12
+  - first:
+      213: 8594302499874088462
+    second: radiology_13
+  - first:
+      213: -8118204819159000903
+    second: radiology_14
+  - first:
+      213: -5740647343149909022
+    second: radiology_15
+  - first:
+      213: -7253407230832128488
+    second: radiology_16
+  - first:
+      213: 4549148548328421283
+    second: radiology_17
+  - first:
+      213: -4877516585021336301
+    second: radiology_18
+  - first:
+      213: -3976485451560650947
+    second: radiology_19
+  - first:
+      213: -91058875307570015
+    second: radiology_20
+  - first:
+      213: -6506583322218938206
+    second: radiology_21
+  - first:
+      213: 79622214180078020
+    second: radiology_22
+  - first:
+      213: -2507062585124058793
+    second: radiology_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: radiology_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 238
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b3d09a949d5310800000000000000
+      internalID: 1395434851130389843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 270
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108adfe288254970800000000000000
+      internalID: 8738435194817249300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 238
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32ab0c6486c085f0800000000000000
+      internalID: -756386465347558849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 238
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fefa8b27bac02f0800000000000000
+      internalID: -1005240107597303925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 238
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1500b8aa618592d90800000000000000
+      internalID: -7122064481335967663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 238
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a195fe93c1a1c8000800000000000000
+      internalID: 39435205272885530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f29bd83bd022f0800000000000000
+      internalID: -999558080027756586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 206
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eda9b2a8aa5c680800000000000000
+      internalID: -8735388391801430475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 206
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71d25a613e3e5480800000000000000
+      internalID: -8908614630934130305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 208
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3a08306a99fba0800000000000000
+      internalID: -6054638485975187827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 174
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cc682a89605370800000000000000
+      internalID: 8309257354603185215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 174
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0f9938384e6470800000000000000
+      internalID: 8389722562159906386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 176
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceb65b69e1a18750800000000000000
+      internalID: 6305498977195704014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 94
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e062f3dc698154770800000000000000
+      internalID: 8594302499874088462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d924aab7565f80800000000000000
+      internalID: -8118204819159000903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 142
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb72ca18af1550b0800000000000000
+      internalID: -5740647343149909022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 142
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4003cd88b65b90800000000000000
+      internalID: -7253407230832128488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a779959082d12f30800000000000000
+      internalID: 4549148548328421283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3151ab312849f4cb0800000000000000
+      internalID: -4877516585021336301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f735dc8fa0d8c0800000000000000
+      internalID: -3976485451560650947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac45a37f6e7cbef0800000000000000
+      internalID: -91058875307570015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 30
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0c8a911f8f3b5a0800000000000000
+      internalID: -6506583322218938206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 30
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c10f606bffda1100800000000000000
+      internalID: 79622214180078020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radiology_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 304
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7590200acdf153dd0800000000000000
+      internalID: -2507062585124058793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      radiology_0: 1395434851130389843
+      radiology_1: 8738435194817249300
+      radiology_10: 8309257354603185215
+      radiology_11: 8389722562159906386
+      radiology_12: 6305498977195704014
+      radiology_13: 8594302499874088462
+      radiology_14: -8118204819159000903
+      radiology_15: -5740647343149909022
+      radiology_16: -7253407230832128488
+      radiology_17: 4549148548328421283
+      radiology_18: -4877516585021336301
+      radiology_19: -3976485451560650947
+      radiology_2: -756386465347558849
+      radiology_20: -91058875307570015
+      radiology_21: -6506583322218938206
+      radiology_22: 79622214180078020
+      radiology_23: -2507062585124058793
+      radiology_3: -1005240107597303925
+      radiology_4: -7122064481335967663
+      radiology_5: 39435205272885530
+      radiology_6: -999558080027756586
+      radiology_7: -8735388391801430475
+      radiology_8: -8908614630934130305
+      radiology_9: -6054638485975187827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 5aa2a056b560d354a82558318a842952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4564943734715742610
+    second: doctors_office_0
+  - first:
+      213: -641826805037117001
+    second: doctors_office_1
+  - first:
+      213: 1701121992133841045
+    second: doctors_office_2
+  - first:
+      213: -7682726990456169081
+    second: doctors_office_3
+  - first:
+      213: 3196914861138437590
+    second: doctors_office_4
+  - first:
+      213: -7266857825600308341
+    second: doctors_office_5
+  - first:
+      213: 3892716528359734111
+    second: doctors_office_6
+  - first:
+      213: 1064421526311036916
+    second: doctors_office_7
+  - first:
+      213: 7428141918772398790
+    second: doctors_office_8
+  - first:
+      213: -6955346741055958162
+    second: doctors_office_9
+  - first:
+      213: -4982393939048872214
+    second: doctors_office_10
+  - first:
+      213: 892356876625109183
+    second: doctors_office_11
+  - first:
+      213: -6491386834929286275
+    second: doctors_office_12
+  - first:
+      213: -2261825012724776291
+    second: doctors_office_13
+  - first:
+      213: -7344783172811214605
+    second: doctors_office_14
+  - first:
+      213: 726914174814375602
+    second: doctors_office_15
+  - first:
+      213: -853085128200011258
+    second: doctors_office_16
+  - first:
+      213: -9222115391894686674
+    second: doctors_office_17
+  - first:
+      213: -5486173675544990832
+    second: doctors_office_18
+  - first:
+      213: -6676145893893975264
+    second: doctors_office_19
+  - first:
+      213: 6342095414706821071
+    second: doctors_office_20
+  - first:
+      213: 7840238476379633744
+    second: doctors_office_21
+  - first:
+      213: 2488294231385272768
+    second: doctors_office_22
+  - first:
+      213: 8336789528463933499
+    second: doctors_office_23
+  - first:
+      213: 5364210820384300231
+    second: doctors_office_24
+  - first:
+      213: -5297244347405932623
+    second: doctors_office_25
+  - first:
+      213: -1261025329924485715
+    second: doctors_office_26
+  - first:
+      213: 6239488673518358602
+    second: doctors_office_27
+  - first:
+      213: 987292357926960933
+    second: doctors_office_28
+  - first:
+      213: 5099668611895554095
+    second: doctors_office_29
+  - first:
+      213: 683632246854605559
+    second: doctors_office_30
+  - first:
+      213: -3872734637983250324
+    second: doctors_office_31
+  - first:
+      213: 8862666145835799672
+    second: doctors_office_32
+  - first:
+      213: 1915836240035618861
+    second: doctors_office_33
+  - first:
+      213: -9022428444349048390
+    second: doctors_office_34
+  - first:
+      213: 2116759143386572521
+    second: doctors_office_35
+  - first:
+      213: -3791071848675732876
+    second: doctors_office_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doctors_office_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299706ff320f95f30800000000000000
+      internalID: 4564943734715742610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1507edbe5c717f0800000000000000
+      internalID: -641826805037117001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5901ebc50799b9710800000000000000
+      internalID: 1701121992133841045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 126
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ddd8bc188716590800000000000000
+      internalID: -7682726990456169081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 126
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e253d029bd5c20800000000000000
+      internalID: 3196914861138437590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b73df1f4fe62b90800000000000000
+      internalID: -7266857825600308341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 126
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b7c2cde05b50630800000000000000
+      internalID: 3892716528359734111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f76c071db595ce00800000000000000
+      internalID: 1064421526311036916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 62
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0e9918bf061760800000000000000
+      internalID: 7428141918772398790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 78
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6350b17df4a97f90800000000000000
+      internalID: -6955346741055958162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 94
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ceeb3c1bfadab0800000000000000
+      internalID: -4982393939048872214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 94
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ed14f9d9426c00800000000000000
+      internalID: 892356876625109183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7384640116f9e5a0800000000000000
+      internalID: -6491386834929286275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92427472226c90e0800000000000000
+      internalID: -2261825012724776291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f032506e96121a90800000000000000
+      internalID: -7344783172811214605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec1043794861a00800000000000000
+      internalID: 726914174814375602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6024872889b3924f0800000000000000
+      internalID: -853085128200011258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24747479e6740080800000000000000
+      internalID: -9222115391894686674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09baa0deb123dd3b0800000000000000
+      internalID: -5486173675544990832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 62
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02354c56ea09953a0800000000000000
+      internalID: -6676145893893975264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 62
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7db358d26a30850800000000000000
+      internalID: 6342095414706821071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 62
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05835fada5f1ecc60800000000000000
+      internalID: 7840238476379633744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c17f5e7b62388220800000000000000
+      internalID: 2488294231385272768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b300a4be7e932b370800000000000000
+      internalID: 8336789528463933499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc10510251817a40800000000000000
+      internalID: 5364210820384300231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b76c6005586c76b0800000000000000
+      internalID: -5297244347405932623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc415c420ff7ee0800000000000000
+      internalID: -1261025329924485715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 49
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40922de3ed179650800000000000000
+      internalID: 6239488673518358602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb1bb2b2193bd00800000000000000
+      internalID: 987292357926960933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f207e345599a5c640800000000000000
+      internalID: 5099668611895554095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 30
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa55ce08efbc7900800000000000000
+      internalID: 683632246854605559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 30
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6848a98d58414ac0800000000000000
+      internalID: -3872734637983250324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8745c6937e38efa70800000000000000
+      internalID: 8862666145835799672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a427e8ea669a10800000000000000
+      internalID: 1915836240035618861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d13bf125e9c280800000000000000
+      internalID: -9022428444349048390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 30
+        width: 114
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ed90d93d306d10800000000000000
+      internalID: 2116759143386572521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doctors_office_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47213b55d38636bc0800000000000000
+      internalID: -3791071848675732876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      doctors_office_0: 4564943734715742610
+      doctors_office_1: -641826805037117001
+      doctors_office_10: -4982393939048872214
+      doctors_office_11: 892356876625109183
+      doctors_office_12: -6491386834929286275
+      doctors_office_13: -2261825012724776291
+      doctors_office_14: -7344783172811214605
+      doctors_office_15: 726914174814375602
+      doctors_office_16: -853085128200011258
+      doctors_office_17: -9222115391894686674
+      doctors_office_18: -5486173675544990832
+      doctors_office_19: -6676145893893975264
+      doctors_office_2: 1701121992133841045
+      doctors_office_20: 6342095414706821071
+      doctors_office_21: 7840238476379633744
+      doctors_office_22: 2488294231385272768
+      doctors_office_23: 8336789528463933499
+      doctors_office_24: 5364210820384300231
+      doctors_office_25: -5297244347405932623
+      doctors_office_26: -1261025329924485715
+      doctors_office_27: 6239488673518358602
+      doctors_office_28: 987292357926960933
+      doctors_office_29: 5099668611895554095
+      doctors_office_3: -7682726990456169081
+      doctors_office_30: 683632246854605559
+      doctors_office_31: -3872734637983250324
+      doctors_office_32: 8862666145835799672
+      doctors_office_33: 1915836240035618861
+      doctors_office_34: -9022428444349048390
+      doctors_office_35: 2116759143386572521
+      doctors_office_36: -3791071848675732876
+      doctors_office_4: 3196914861138437590
+      doctors_office_5: -7266857825600308341
+      doctors_office_6: 3892716528359734111
+      doctors_office_7: 1064421526311036916
+      doctors_office_8: 7428141918772398790
+      doctors_office_9: -6955346741055958162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
