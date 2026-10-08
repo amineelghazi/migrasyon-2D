@@ -68,9 +68,9 @@ cd migrasyon-2D
 
 | Action | Touche |
 |---|---|
-| Déplacement | *À compléter* |
-| Saut | *À compléter* |
-| Interagir | *À compléter* |
+| Déplacement | ← ↑ ↓ → /  WASD |
+| Saut | espace |
+| Interagir | E |
 | Quick Time Event | Clic de souris |
 
 ## Technologies
