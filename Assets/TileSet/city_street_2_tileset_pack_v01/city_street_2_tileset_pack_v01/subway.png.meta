@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3116ccb6fbd20aa4bb0f860fea5e263d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1876299952019958074
+    second: subway_0
+  - first:
+      213: 4703526141678247968
+    second: subway_1
+  - first:
+      213: 8656156871969133874
+    second: subway_2
+  - first:
+      213: 2003203127826844511
+    second: subway_3
+  - first:
+      213: -3466475404687046978
+    second: subway_4
+  - first:
+      213: -6559083022000518715
+    second: subway_5
+  - first:
+      213: 6043028075511239839
+    second: subway_6
+  - first:
+      213: -1746679920839558448
+    second: subway_7
+  - first:
+      213: -1254597163579660708
+    second: subway_8
+  - first:
+      213: -7722636960404487379
+    second: subway_9
+  - first:
+      213: 8015350453684340484
+    second: subway_10
+  - first:
+      213: 1908616899247327711
+    second: subway_11
+  - first:
+      213: 8153353412825470648
+    second: subway_12
+  - first:
+      213: -215832967256887001
+    second: subway_13
+  - first:
+      213: -3327807956142191717
+    second: subway_14
+  - first:
+      213: -1719134620004908127
+    second: subway_15
+  - first:
+      213: -2898714056387375326
+    second: subway_16
+  - first:
+      213: 7882080236185393897
+    second: subway_17
+  - first:
+      213: -7053281290727245389
+    second: subway_18
+  - first:
+      213: 5172142685568514193
+    second: subway_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: subway_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 370
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c694cb722b06f5e0800000000000000
+      internalID: -1876299952019958074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 291
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ee720b18464140800000000000000
+      internalID: 4703526141678247968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 291
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d6c110d8d02870800000000000000
+      internalID: 8656156871969133874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 79
+        width: 66
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b021f91aecccb10800000000000000
+      internalID: 2003203127826844511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 275
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb600015cfa94efc0800000000000000
+      internalID: -3466475404687046978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 275
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90d553eb479f4a0800000000000000
+      internalID: -6559083022000518715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 241
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f945f8074062dd350800000000000000
+      internalID: 6043028075511239839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 241
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafc06cddb82c7e0800000000000000
+      internalID: -1746679920839558448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562f90e686c69ee0800000000000000
+      internalID: -1254597163579660708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 215
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23c9cdc99ea3d490800000000000000
+      internalID: -7722636960404487379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 175
+        width: 130
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070f1e35ce3c3f60800000000000000
+      internalID: 8015350453684340484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 209
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c1f325f4cc7a10800000000000000
+      internalID: 1908616899247327711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 209
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65eab0bb7862170800000000000000
+      internalID: 8153353412825470648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 181
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b5df4f05310df0800000000000000
+      internalID: -215832967256887001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 370
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0d6d9b4041d1d0800000000000000
+      internalID: -3327807956142191717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 143
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a30885eb286428e0800000000000000
+      internalID: -1719134620004908127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 143
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f499b7ce2b5c7d0800000000000000
+      internalID: -2898714056387375326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 111
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea15f8b636c26d60800000000000000
+      internalID: 7882080236185393897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 111
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b93b453906bd1e90800000000000000
+      internalID: -7053281290727245389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: subway_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 592
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19832fc8e5427c740800000000000000
+      internalID: 5172142685568514193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      subway_0: -1876299952019958074
+      subway_1: 4703526141678247968
+      subway_10: 8015350453684340484
+      subway_11: 1908616899247327711
+      subway_12: 8153353412825470648
+      subway_13: -215832967256887001
+      subway_14: -3327807956142191717
+      subway_15: -1719134620004908127
+      subway_16: -2898714056387375326
+      subway_17: 7882080236185393897
+      subway_18: -7053281290727245389
+      subway_19: 5172142685568514193
+      subway_2: 8656156871969133874
+      subway_3: 2003203127826844511
+      subway_4: -3466475404687046978
+      subway_5: -6559083022000518715
+      subway_6: 6043028075511239839
+      subway_7: -1746679920839558448
+      subway_8: -1254597163579660708
+      subway_9: -7722636960404487379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
