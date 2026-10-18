@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - firstDecorations
+  - secondDecorations
   - 
   - 
   - 
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: background_theme
+    uniqueID: 583386663
+    locked: 0
+  - name: game_decorations
+    uniqueID: 1521989365
+    locked: 0
+  - name: second_decorations
+    uniqueID: 1296790587
+    locked: 0
+  - name: third_decorations
+    uniqueID: 3307972203
+    locked: 0
+  - name: fourth_decorations
+    uniqueID: 3906748333
+    locked: 0
+  m_RenderingLayers:
+  - Default
