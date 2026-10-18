@@ -266,3 +266,2079 @@ Received Import Request.
 Start importing Assets/Sprites/city_street_2_tileset_pack_v01/mp_city_street_2_tileset_pack_v1.0.psd using Guid(1db6cdd09497b9446ab107348f70d730) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53335170dd559743793489076ba65f09') in 0.7965855 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 216
 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  4.793 seconds
+Refreshing native plugins compatible for Editor in 5.41 ms, found 6 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.439 seconds
+Domain Reload Profiling: 6235ms
+	BeginReloadAssembly (683ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (199ms)
+	RebuildCommonClasses (147ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (3889ms)
+		LoadAssemblies (3308ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (898ms)
+			TypeCache.Refresh (15ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (849ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (1440ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1158ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (334ms)
+			ProcessInitializeOnLoadAttributes (580ms)
+			ProcessInitializeOnLoadMethodAttributes (219ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Refreshing native plugins compatible for Editor in 5.07 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 78 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8721 unused Assets / (23.6 MB). Loaded Objects now: 9637.
+Memory consumption went from 184.9 MB to 161.3 MB.
+Total: 24.861300 ms (FindLiveObjects: 1.232900 ms CreateObjectMapping: 2.774400 ms MarkObjects: 9.165700 ms  DeleteObjects: 11.686200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2184.484832 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_0.asset
+  artifactKey: Guid(0dd1e2f81cc95cd49a96fca8ad128e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_0.asset using Guid(0dd1e2f81cc95cd49a96fca8ad128e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eb73e761b4b441598f11c050c7e39d4') in 0.1880849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_3.asset
+  artifactKey: Guid(b7102d8f0a3c20741a0cf9391cc59385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_3.asset using Guid(b7102d8f0a3c20741a0cf9391cc59385) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a991313d78877e200886301a17d16ed6') in 0.0175606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_1.asset
+  artifactKey: Guid(d1ae1af30c1f1f6469f66560d1a3d443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_1.asset using Guid(d1ae1af30c1f1f6469f66560d1a3d443) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95a577b82e2b348e2326872627d7051e') in 0.0149405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_7.asset
+  artifactKey: Guid(49d69dcc68a8eaf45bc0c965717734c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_7.asset using Guid(49d69dcc68a8eaf45bc0c965717734c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28273cf9541efc6c45574c7cd93f7635') in 0.0171828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_8.asset
+  artifactKey: Guid(b48687c077d30ad40bfc65342be139b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_8.asset using Guid(b48687c077d30ad40bfc65342be139b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb5de6465d4f956397f9689db3d15b1d') in 0.0170826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_4.asset
+  artifactKey: Guid(888de7b678368514fb670a01857997a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_4.asset using Guid(888de7b678368514fb670a01857997a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f6ee9925642cc595a469006b460dc60') in 0.0156902 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_2.asset
+  artifactKey: Guid(6877360ec9a10aa4dbef7cd9ff05d64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_2.asset using Guid(6877360ec9a10aa4dbef7cd9ff05d64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '747d5a389a76c548260ecd9656579f59') in 0.0151435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_6.asset
+  artifactKey: Guid(ddea016e9f5962a4bb976273e203b5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_6.asset using Guid(ddea016e9f5962a4bb976273e203b5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e669927ae913fab909471cd5f824e05') in 0.0155264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/city_street_2_tileset_pack_v01/buildings_5.asset
+  artifactKey: Guid(8a5bd12446707b249bc488f2067f9916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/city_street_2_tileset_pack_v01/buildings_5.asset using Guid(8a5bd12446707b249bc488f2067f9916) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee160becf32095c6182ce752ccbff4ec') in 0.0172051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 778.580190 seconds.
+  path: Assets/Sprites/mp_hospital_tileset_pack_v1.0/background_walls.png
+  artifactKey: Guid(9baf5f7ec72330e4dbee3c6321d50e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_hospital_tileset_pack_v1.0/background_walls.png using Guid(9baf5f7ec72330e4dbee3c6321d50e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bfacf12fbb5b81b5cccb99031a70e688') in 0.1856078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/mp_hospital_tileset_pack_v1.0/waiting_area_lobby.png
+  artifactKey: Guid(a09fbfd97cb5122439cc6d256bd85f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_hospital_tileset_pack_v1.0/waiting_area_lobby.png using Guid(a09fbfd97cb5122439cc6d256bd85f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02a9ecfc06fc0b9298ccd4e4dc3c645d') in 0.1002015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/mp_hospital_tileset_pack_v1.0/mp_hospital_tileset_pack.psd
+  artifactKey: Guid(26fcccb5f0023a94e870257576990278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_hospital_tileset_pack_v1.0/mp_hospital_tileset_pack.psd using Guid(26fcccb5f0023a94e870257576990278) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6336e369c2d959388cfd688539162426') in 1.0893257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 321
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/mp_hospital_tileset_pack_v1.0/bathroom_lockers.png
+  artifactKey: Guid(43c636a0b3acff64e88c2caadd3fed1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_hospital_tileset_pack_v1.0/bathroom_lockers.png using Guid(43c636a0b3acff64e88c2caadd3fed1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd84edbe8d9e7b9c045c8a7d6e5b14643') in 0.0691494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.174914 seconds.
+  path: Assets/Sprites/mp_house_interiors_tileset_pack/garage.png
+  artifactKey: Guid(769ac8fb2612f404d94d3a8226609cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_house_interiors_tileset_pack/garage.png using Guid(769ac8fb2612f404d94d3a8226609cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f1fb8c88113fdf3858493b0e86cc712') in 0.2019405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/mp_house_interiors_tileset_pack/kitchen.png
+  artifactKey: Guid(8a24500e3d3cc5a42b01902b87920c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_house_interiors_tileset_pack/kitchen.png using Guid(8a24500e3d3cc5a42b01902b87920c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e32facb3cfbf43286885447d91bb5db') in 0.1546222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 41
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/mp_house_interiors_tileset_pack/mp_house_interiors_tileset_pack.psd
+  artifactKey: Guid(d7731a42640045f4d894b74db167e7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_house_interiors_tileset_pack/mp_house_interiors_tileset_pack.psd using Guid(d7731a42640045f4d894b74db167e7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c231078f0ba09d52d823f64b785af828') in 1.3248975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 376
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.322688 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_background.png
+  artifactKey: Guid(f55c02956464cf546b7881aea7cdd7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_background.png using Guid(f55c02956464cf546b7881aea7cdd7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4f31b9a7c02f2f0bf6ab86196882489') in 0.05545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_buildings.png
+  artifactKey: Guid(8ce7054dba28fb34fa35dcc314f7f045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_buildings.png using Guid(8ce7054dba28fb34fa35dcc314f7f045) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cab7005c097dfdedb62f46096eef27f') in 0.2791286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 48
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_vegetation.png
+  artifactKey: Guid(9fe185ac23a8ea34ebd11edba3f0834e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_vegetation.png using Guid(9fe185ac23a8ea34ebd11edba3f0834e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afefc7d0093a86989b76b2e95ebff65b') in 0.0261655 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_shadows.png
+  artifactKey: Guid(46ae3ff72608674409a7680828a4f1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_shadows.png using Guid(46ae3ff72608674409a7680828a4f1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '60c5a517602ad6d5cc7583dff899aee4') in 0.0305298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_props.png
+  artifactKey: Guid(9977fbcb755652247b4875417266194d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_props.png using Guid(9977fbcb755652247b4875417266194d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7cce9513fbf4ad9b7602a747eec054b') in 0.1421771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/mp_city_street_tileset_pack/mp_cs_tilemap_all.png
+  artifactKey: Guid(59f11dcd50ad5274a85d62c12876ee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/mp_city_street_tileset_pack/mp_cs_tilemap_all.png using Guid(59f11dcd50ad5274a85d62c12876ee22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c82fd0012dd7a2d74f9771cb177dfffd') in 0.4079778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 118
+
+========================================================================
+Received Import Request.
+  Time since last request: 1128.547655 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Background/Background Props.png
+  artifactKey: Guid(d92c8713f5ce225469bfe8f62af9ae4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Background/Background Props.png using Guid(d92c8713f5ce225469bfe8f62af9ae4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7302bcdb58ef9965ce7a54be17e493ea') in 0.0727491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Background/Frontal Fog.aseprite
+  artifactKey: Guid(7de3f4038a5d3194c8a4d13c146ebcb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Background/Frontal Fog.aseprite using Guid(7de3f4038a5d3194c8a4d13c146ebcb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4433a9f3e7471e86eca75110e16b5b5e') in 0.6876074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.917023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Buildings.png
+  artifactKey: Guid(11fab5b7ec3d92a42a461fb19667b0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Buildings.png using Guid(11fab5b7ec3d92a42a461fb19667b0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '475dd59c228a7e89a8306b83149e7afd') in 0.054554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.aseprite
+  artifactKey: Guid(af48008bd9f7dd946a6ed837557e421a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.aseprite using Guid(af48008bd9f7dd946a6ed837557e421a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd842ca5d66a04f6e41f9a04452e9c056') in 0.0566991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png
+  artifactKey: Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png using Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '788c65e4b10a232eeaf90158e40bb93d') in 0.0199103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.880565 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Social/Buildings.png
+  artifactKey: Guid(7a70a3d6d77df8e46ab09e41e7e45b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Social/Buildings.png using Guid(7a70a3d6d77df8e46ab09e41e7e45b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff50309d266d80251f49782ae1332266') in 0.07439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Social/MockUp-01.aseprite
+  artifactKey: Guid(315dc61e54b158d48b0471a06a34f206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Social/MockUp-01.aseprite using Guid(315dc61e54b158d48b0471a06a34f206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '279c9b3a8d0ffdf5152cb836c39283a2') in 0.0526935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Social/MockUp-01.png
+  artifactKey: Guid(864e2ae03e42316489bd86245781281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Social/MockUp-01.png using Guid(864e2ae03e42316489bd86245781281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7673344d14dab9866437ab5a4d26bdd') in 0.0185139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 8794.787797 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_1.asset
+  artifactKey: Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_1.asset using Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '924f01c72ae4bb4e1dc6950b9a29a9db') in 0.0728296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_9.asset
+  artifactKey: Guid(8c2cc3b325503be4bb3bcec279b66a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_9.asset using Guid(8c2cc3b325503be4bb3bcec279b66a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ef0f2e57755f95d769c486befad9ffd') in 0.0241187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_5.asset
+  artifactKey: Guid(469a0af2a25d8e84aa46d672a4f8bc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_5.asset using Guid(469a0af2a25d8e84aa46d672a4f8bc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03344189e95a29031a61f68220d0789a') in 0.0222289 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_6.asset
+  artifactKey: Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_6.asset using Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afbd02d2f123a4ec4902ff742b8c6c16') in 0.0201664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_4.asset
+  artifactKey: Guid(08dc8e53b977c4b4a814baa8b9cd5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_4.asset using Guid(08dc8e53b977c4b4a814baa8b9cd5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '549ed7833af17a864be2d17c0b2f0b80') in 0.021353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_10.asset
+  artifactKey: Guid(59cc55ef0549ffd4882389ab5fb7cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_10.asset using Guid(59cc55ef0549ffd4882389ab5fb7cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26114f6c15b5de0a49404553e9a0ab29') in 0.0154814 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_2.asset
+  artifactKey: Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_2.asset using Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae7630b9578f47cfbc5787e1a81412ae') in 0.0167733 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_7.asset
+  artifactKey: Guid(0e3a0cfca577acf428730ab89c3bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_7.asset using Guid(0e3a0cfca577acf428730ab89c3bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed58106de56942a8b339ee59dcf67697') in 0.0170146 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 381.426806 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.aseprite
+  artifactKey: Guid(af48008bd9f7dd946a6ed837557e421a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.aseprite using Guid(af48008bd9f7dd946a6ed837557e421a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c4419f43270933a9c591d02f4d11391') in 0.2096093 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.968409 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76d1aa4dd4fa738fb7b50bb96514ace2') in 0.0625258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.586295 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36abe0e4eebf626f9d901b4cfffd6ad6') in 0.0387232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.161075 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '634b9a46ad79745791f868d6c149d968') in 0.033732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.175503 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55397b676f0e94d72269dd71be68dd80') in 0.0690519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 119
+
+========================================================================
+Received Import Request.
+  Time since last request: 610.745171 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ab1df6c79cd21ad2ea71df0bb59496a') in 0.049547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 119
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.566227 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab
+  artifactKey: Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/ground.prefab using Guid(b5479bbc83151454abe63ed05e665ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eacbf7735b2431fb61dba8bbc317eb84') in 0.0491308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 119
+
+========================================================================
+Received Import Request.
+  Time since last request: 2289.475237 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png
+  artifactKey: Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png using Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95438e4d0e0034774a39a45ee1cd1578') in 0.1960466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 57
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.701660 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_1.asset
+  artifactKey: Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_1.asset using Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fa5d9bf345875efd8931bd894cdc138') in 0.0187427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_12.asset
+  artifactKey: Guid(7baab06e6df26444980453dd81a85d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_12.asset using Guid(7baab06e6df26444980453dd81a85d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ec02188ebd874a8d007ec33f798bd12') in 0.0200822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_31.asset
+  artifactKey: Guid(9838074f4d283c04a8b21d84617b6ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_31.asset using Guid(9838074f4d283c04a8b21d84617b6ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ebc8377a18b6029aa983a95364ffde7') in 0.0178408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_14.asset
+  artifactKey: Guid(32a02199454a9eb42bc5f38a26367a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_14.asset using Guid(32a02199454a9eb42bc5f38a26367a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91d5ef4da6eb067e5cc3bb5a6aeabbd6') in 0.0171735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_9.asset
+  artifactKey: Guid(8c2cc3b325503be4bb3bcec279b66a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_9.asset using Guid(8c2cc3b325503be4bb3bcec279b66a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '008f88eb2703083fbb79020022a2ce60') in 0.0166365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_32.asset
+  artifactKey: Guid(f7f6e936b23981944b9485991f06304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_32.asset using Guid(f7f6e936b23981944b9485991f06304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce717951112af62dc22dd36a9a3dc583') in 0.0162281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_45.asset
+  artifactKey: Guid(d520ba34c21c1ef48af04d7e461faea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_45.asset using Guid(d520ba34c21c1ef48af04d7e461faea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2712aa6fce57b34f7ec19fb4f9bb20e7') in 0.0165047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_16.asset
+  artifactKey: Guid(c1ad2cddf054b1844853957555e3b699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_16.asset using Guid(c1ad2cddf054b1844853957555e3b699) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80cd81aeb10a517896a4964bff32a758') in 0.015887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_20.asset
+  artifactKey: Guid(9add31a8d4d425041a77b630dcef015b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_20.asset using Guid(9add31a8d4d425041a77b630dcef015b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3475063b6a1692747110002f13adf639') in 0.0168527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_36.asset
+  artifactKey: Guid(bb740d60f75aa1b4884584f381947f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_36.asset using Guid(bb740d60f75aa1b4884584f381947f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3343096e887c50cb76f580c7e99949a') in 0.0191665 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_3.asset
+  artifactKey: Guid(4d5cf51a79285e04cae37ea5418dd627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_3.asset using Guid(4d5cf51a79285e04cae37ea5418dd627) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79f1543541b807d01882045992a3f91d') in 0.0159995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_2.asset
+  artifactKey: Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_2.asset using Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4298fcf5e4d3dd3f0d18eb1ab1f9bf3b') in 0.0186499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_30.asset
+  artifactKey: Guid(e623632a9a7690e40866e5c950dc7b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_30.asset using Guid(e623632a9a7690e40866e5c950dc7b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5180909c31616c4687e458a1f5e2ce82') in 0.0197049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_39.asset
+  artifactKey: Guid(cda1553361419c546ab6c9829f253b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_39.asset using Guid(cda1553361419c546ab6c9829f253b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '005614275ca1e2fef728db6460bf4699') in 0.0179961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_29.asset
+  artifactKey: Guid(eed62df10538ad04f91a2b01d5492c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_29.asset using Guid(eed62df10538ad04f91a2b01d5492c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3f8af68034704ab5e7ab6571ee90f82') in 0.0174341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_27.asset
+  artifactKey: Guid(2486e689359a4f840b919416d3d8c06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_27.asset using Guid(2486e689359a4f840b919416d3d8c06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf2c241f0f8e3c8cee542e2799324a05') in 0.0171294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_5.asset
+  artifactKey: Guid(469a0af2a25d8e84aa46d672a4f8bc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_5.asset using Guid(469a0af2a25d8e84aa46d672a4f8bc53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'deadf36e25f2dd881926b20020e6f397') in 0.0187727 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_6.asset
+  artifactKey: Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_6.asset using Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64f0f84d689114bced2db7c958146b43') in 0.0177943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_4.asset
+  artifactKey: Guid(08dc8e53b977c4b4a814baa8b9cd5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_4.asset using Guid(08dc8e53b977c4b4a814baa8b9cd5d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bfd25395666f621043cf6065edc688d') in 0.0170011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_33.asset
+  artifactKey: Guid(1ed62582442918848b1636d5558442ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_33.asset using Guid(1ed62582442918848b1636d5558442ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65da64ffbb1cd07eda84420a02e624b0') in 0.0075941 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_37.asset
+  artifactKey: Guid(e83f1ce7ee9be534f84bdf1299efe7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_37.asset using Guid(e83f1ce7ee9be534f84bdf1299efe7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd85cd6360e486c9246c01efdbae3b310') in 0.0164859 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_28.asset
+  artifactKey: Guid(1570977da7d02a042be62fc8efdbbe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_28.asset using Guid(1570977da7d02a042be62fc8efdbbe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79017f15a119b6326964dbc4b7a92684') in 0.0171206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_7.asset
+  artifactKey: Guid(0e3a0cfca577acf428730ab89c3bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_7.asset using Guid(0e3a0cfca577acf428730ab89c3bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79e42a28b84a90bee4b71bb7318d2409') in 0.0188482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_44.asset
+  artifactKey: Guid(40555200155d8c54d9d1abc58a1c0506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_44.asset using Guid(40555200155d8c54d9d1abc58a1c0506) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a28b755e525b296806d58bca058e856') in 0.0158893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_51.asset
+  artifactKey: Guid(862bfed6ff1ec494ab8fae3b5c4b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_51.asset using Guid(862bfed6ff1ec494ab8fae3b5c4b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3359b4e554f0d6192e527fe535fa0325') in 0.0167284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_49.asset
+  artifactKey: Guid(2230a83763f3ca440a7797155238f48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_49.asset using Guid(2230a83763f3ca440a7797155238f48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db7de2bfd7529ec74c2257bb5df52d15') in 0.0209189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_52.asset
+  artifactKey: Guid(8ab1028dd88631f4a95f39671f8b25bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_52.asset using Guid(8ab1028dd88631f4a95f39671f8b25bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aca43cf0f8da0e5baa1787525f1f4188') in 0.0191094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/GroundPalette/Tiles_53.asset
+  artifactKey: Guid(bbe20922a5450d444a78776830c0c144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/GroundPalette/Tiles_53.asset using Guid(bbe20922a5450d444a78776830c0c144) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5da4fdbd04eb463ea2727cc894ac969a') in 0.0149142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.821502 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png
+  artifactKey: Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png using Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be92d8938ff871eab5c6b9e6a36d1a6a') in 0.3723892 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 57
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.304298 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png
+  artifactKey: Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/Assets/Tiles.png using Guid(67efacdea23585f459b494bb95f47406) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '236c8b7b7d3fcb69f8602977a80cb92a') in 0.31443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 57
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.108390 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_1.asset
+  artifactKey: Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_1.asset using Guid(389cb10ed163aaa43bfc9662ca4ffc92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41ae3190970576b4834e7a3bfbb1c4c3') in 0.0121935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_19.asset
+  artifactKey: Guid(33ff7437f06f2fa42a61d15b64cb1fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_19.asset using Guid(33ff7437f06f2fa42a61d15b64cb1fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f7d553cfbf81af4ee0076c9cd2081bd') in 0.0113077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_23.asset
+  artifactKey: Guid(6cbce8081e0b291449c2cb66d939d2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_23.asset using Guid(6cbce8081e0b291449c2cb66d939d2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ed9f113910998494867dfcc5092098c') in 0.0102852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_18.asset
+  artifactKey: Guid(e96c278e53aa0a24c9bff9262d29f428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_18.asset using Guid(e96c278e53aa0a24c9bff9262d29f428) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e50a640c8dce28d23cbb21df784b84e') in 0.0095367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_26.asset
+  artifactKey: Guid(0de4e434cf4b100448c4e9942015367b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_26.asset using Guid(0de4e434cf4b100448c4e9942015367b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5ecb7b6b3a6aa8b1147d2591c96abfe') in 0.0089798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_32.asset
+  artifactKey: Guid(f7f6e936b23981944b9485991f06304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_32.asset using Guid(f7f6e936b23981944b9485991f06304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97c94821e92ae8f1dcf6cd1076874715') in 0.0077908 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_42.asset
+  artifactKey: Guid(9d72fe2851dfbe840a5e3c2779fdb2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_42.asset using Guid(9d72fe2851dfbe840a5e3c2779fdb2a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d1fc312ec481c63058d55d854feeb8d') in 0.009825 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_24.asset
+  artifactKey: Guid(d9c6a6ab037a64649a92ecb29c37a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_24.asset using Guid(d9c6a6ab037a64649a92ecb29c37a6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c66e683cd3b2c2b6a6cf7ab5e4203225') in 0.0083996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_10.asset
+  artifactKey: Guid(59cc55ef0549ffd4882389ab5fb7cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_10.asset using Guid(59cc55ef0549ffd4882389ab5fb7cbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3bba091da876ffc0d456610fc8d6db30') in 0.0100761 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_41.asset
+  artifactKey: Guid(2e37a8990a8d46a419bd59eb11b93f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_41.asset using Guid(2e37a8990a8d46a419bd59eb11b93f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0f8cd8daa0778f7d8258c761923917b') in 0.0103119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_3.asset
+  artifactKey: Guid(4d5cf51a79285e04cae37ea5418dd627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_3.asset using Guid(4d5cf51a79285e04cae37ea5418dd627) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '174104f7ce3574b72871f9a37594ad6d') in 0.0101664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_2.asset
+  artifactKey: Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_2.asset using Guid(5589911b2b2684b4089d09b3d2ded5ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5649eecc82af16e73bd61f98ffbb340a') in 0.0092917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_30.asset
+  artifactKey: Guid(e623632a9a7690e40866e5c950dc7b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_30.asset using Guid(e623632a9a7690e40866e5c950dc7b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33b710c892c4a457928d2bb8a5544229') in 0.0100209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_39.asset
+  artifactKey: Guid(cda1553361419c546ab6c9829f253b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_39.asset using Guid(cda1553361419c546ab6c9829f253b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8024a49a05c7727877043ee0563f4dd9') in 0.0082724 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_29.asset
+  artifactKey: Guid(eed62df10538ad04f91a2b01d5492c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_29.asset using Guid(eed62df10538ad04f91a2b01d5492c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b296f82e505acdc5c89b9d03a37b03e') in 0.009272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_51.asset
+  artifactKey: Guid(862bfed6ff1ec494ab8fae3b5c4b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_51.asset using Guid(862bfed6ff1ec494ab8fae3b5c4b3a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a7a8993a1a4c20d4a8e9e4c4b1cc21c') in 0.0091718 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_49.asset
+  artifactKey: Guid(2230a83763f3ca440a7797155238f48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_49.asset using Guid(2230a83763f3ca440a7797155238f48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6cfd552c6dc15ff32b9ae815f1be720a') in 0.0085972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_54.asset
+  artifactKey: Guid(f9e00be71b5f7004e8807fb74f85f7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_54.asset using Guid(f9e00be71b5f7004e8807fb74f85f7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '784d0f1f084997dc2327f8777b71e9a2') in 0.010129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_47.asset
+  artifactKey: Guid(243bf598db52a8347a12618202e26520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_47.asset using Guid(243bf598db52a8347a12618202e26520) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92dc7054428caf466e1641bf7a917df4') in 0.0093863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_6.asset
+  artifactKey: Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_6.asset using Guid(800079658e7ce254eb4ba485f4e92d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1742983f5d9059c1bdbc798d0802baaa') in 0.0099233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_11.asset
+  artifactKey: Guid(a34b979a3cbbc6f4ab388396abbf7831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_11.asset using Guid(a34b979a3cbbc6f4ab388396abbf7831) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '332c54e3c802e11b947bcfa8d4b83622') in 0.0104363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_13.asset
+  artifactKey: Guid(e02b2422c9162184088d976c76ff88f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_13.asset using Guid(e02b2422c9162184088d976c76ff88f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83e4a749d70886d03753e0c2da2fe4cf') in 0.0079408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_37.asset
+  artifactKey: Guid(e83f1ce7ee9be534f84bdf1299efe7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_37.asset using Guid(e83f1ce7ee9be534f84bdf1299efe7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3cc7008c08093a1c68f2d65b1a18b214') in 0.0088701 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_40.asset
+  artifactKey: Guid(d6a71ccaf2b5f2c4ca50bb1bf0f8d701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_40.asset using Guid(d6a71ccaf2b5f2c4ca50bb1bf0f8d701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc17613a2b0e450abe226f0be786f4c4') in 0.0082668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_35.asset
+  artifactKey: Guid(f7a8767d435437a478adcd4003d479b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_35.asset using Guid(f7a8767d435437a478adcd4003d479b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca3b068afbb9f7f13ebb346776e2e026') in 0.0117099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_43.asset
+  artifactKey: Guid(05290efc54282134e85bfcce03655507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_43.asset using Guid(05290efc54282134e85bfcce03655507) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb2ff0beb7acf6cd1ea3db07002431cf') in 0.010632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_34.asset
+  artifactKey: Guid(5ed7815824bd9af44948b7e5742bbdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Tiles_34.asset using Guid(5ed7815824bd9af44948b7e5742bbdd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6cb8b46ce1575782ba432858c0a80e9') in 0.0092898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  6.870 seconds
+Refreshing native plugins compatible for Editor in 7.41 ms, found 6 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.115 seconds
+Domain Reload Profiling: 8987ms
+	BeginReloadAssembly (1059ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (153ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (278ms)
+	RebuildCommonClasses (206ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (96ms)
+	LoadAllAssembliesAndSetupDomain (5478ms)
+		LoadAssemblies (4508ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1420ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1348ms)
+			ResolveRequiredComponents (30ms)
+	FinalizeReload (2116ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1729ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (527ms)
+			ProcessInitializeOnLoadAttributes (834ms)
+			ProcessInitializeOnLoadMethodAttributes (327ms)
+			AfterProcessingInitializeOnLoad (25ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (40ms)
+Refreshing native plugins compatible for Editor in 8.11 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 78 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 8721 unused Assets / (22.2 MB). Loaded Objects now: 10256.
+Memory consumption went from 191.5 MB to 169.2 MB.
+Total: 30.641400 ms (FindLiveObjects: 1.509000 ms CreateObjectMapping: 2.532000 ms MarkObjects: 13.618000 ms  DeleteObjects: 12.980000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2512.413584 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_1.asset
+  artifactKey: Guid(53bc2eb04d56fa04e9937402b6367924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_1.asset using Guid(53bc2eb04d56fa04e9937402b6367924) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45029b8841f94f16a9e9e126ef0c55cc') in 0.100199 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_18.asset
+  artifactKey: Guid(263bb121af919444581f28d6ad1c8912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_18.asset using Guid(263bb121af919444581f28d6ad1c8912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eed402a8974ddb2ecaa3775e95afa768') in 0.0168738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_6.asset
+  artifactKey: Guid(0983420ebc839a24a8d40824fe5c61e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_6.asset using Guid(0983420ebc839a24a8d40824fe5c61e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '417b4c6aae55d7d3d7c0e4156cc566bf') in 0.0136805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_47.asset
+  artifactKey: Guid(c8e189567b2454340a2edb5e6e4d5096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_47.asset using Guid(c8e189567b2454340a2edb5e6e4d5096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e6b7c5c0a1eec9616115a692781ccee') in 0.0141207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_39.asset
+  artifactKey: Guid(c7f6171b3f9f2824ab5a3f9bf3ea42e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_39.asset using Guid(c7f6171b3f9f2824ab5a3f9bf3ea42e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6cac8edfbe4e1f0f39873373223aabe') in 0.0144306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_3.asset
+  artifactKey: Guid(2023ecb5ed2c7d545921795a38fcd231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_3.asset using Guid(2023ecb5ed2c7d545921795a38fcd231) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '216676737dbe48e100c46945750415f3') in 0.0152859 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_37.asset
+  artifactKey: Guid(de263217f61339340b95099fdeac2675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_37.asset using Guid(de263217f61339340b95099fdeac2675) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d6f608f6f8f5d40332631c33f4051c8') in 0.0133952 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_16.asset
+  artifactKey: Guid(814dcc6dcb31b914093b44220acfc6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_16.asset using Guid(814dcc6dcb31b914093b44220acfc6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77bcecf55b7fef4b66e546886d4c790c') in 0.0177134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_17.asset
+  artifactKey: Guid(b4623b8b2694dcc43a070d65223c4c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_17.asset using Guid(b4623b8b2694dcc43a070d65223c4c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad7e3ef16a76bbeaefd45f98212c104b') in 0.0170309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_5.asset
+  artifactKey: Guid(e0e629b3be9cbf9419d2f4394d333f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_5.asset using Guid(e0e629b3be9cbf9419d2f4394d333f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '67645fd6e1a7bf229b867fecc5fcb36e') in 0.0160487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_10.asset
+  artifactKey: Guid(acdd92f6973b316479434331323811ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_10.asset using Guid(acdd92f6973b316479434331323811ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '088b5799fa43b29c38c66426ecdb7afb') in 0.0174498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_20.asset
+  artifactKey: Guid(a744db24dcd10c84eac87b52c677c046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_20.asset using Guid(a744db24dcd10c84eac87b52c677c046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa2674919c6faf049261242fb74ad929') in 0.0164302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_35.asset
+  artifactKey: Guid(40916807396025d40a7156d6901a9c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_35.asset using Guid(40916807396025d40a7156d6901a9c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c52734b3efd7a8fdee87b83d02abc21') in 0.0153557 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_43.asset
+  artifactKey: Guid(961035e91841c77428918fc0f5b3c342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_43.asset using Guid(961035e91841c77428918fc0f5b3c342) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03ac2530aa423fe90b609525bb08a70b') in 0.0147035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_25.asset
+  artifactKey: Guid(bd1da9a699ce3e949808bdf9273f9ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_25.asset using Guid(bd1da9a699ce3e949808bdf9273f9ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13d0962d0c3b10aed605c1f1893db1d0') in 0.0173717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_44.asset
+  artifactKey: Guid(329cf2672a601204da416a57907ce66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_44.asset using Guid(329cf2672a601204da416a57907ce66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f3a9e1d39c12c1ed37c7b7be78d4d9b') in 0.0140778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_40.asset
+  artifactKey: Guid(1af8481b9e27d8f4dbf36f922ba63ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_40.asset using Guid(1af8481b9e27d8f4dbf36f922ba63ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eba2c72faca5c890168d11c8c4a66e6') in 0.0174527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_38.asset
+  artifactKey: Guid(26cf1c7e59ec9654e97f1a8cbba119ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_38.asset using Guid(26cf1c7e59ec9654e97f1a8cbba119ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38998c1601e64c27a3b6717fa7147517') in 0.0155506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_19.asset
+  artifactKey: Guid(f1f8175f3468fd940921cf26fd453dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_19.asset using Guid(f1f8175f3468fd940921cf26fd453dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85149a5e99731c624a485a0eda59fe18') in 0.0143481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_4.asset
+  artifactKey: Guid(b9edcacf7a0a7c248b4c936f5bd0079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_4.asset using Guid(b9edcacf7a0a7c248b4c936f5bd0079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb1bbefedb68ee90ccd76b4e1d8181e8') in 0.0159342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_29.asset
+  artifactKey: Guid(4f8722178765fc340800fc8cad3dbae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_29.asset using Guid(4f8722178765fc340800fc8cad3dbae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da22a7d3ee2e48fa66a4780119ab6708') in 0.0209598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_13.asset
+  artifactKey: Guid(89538869e3ddd9f4fa34ffaeda9d4fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_13.asset using Guid(89538869e3ddd9f4fa34ffaeda9d4fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c91303d40c203c210a972be389753524') in 0.0161778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_42.asset
+  artifactKey: Guid(e60333f2d097d4246a964babd52b1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_42.asset using Guid(e60333f2d097d4246a964babd52b1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b080539b894898aaa144a5a9e73d06d6') in 0.0168087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_8.asset
+  artifactKey: Guid(8e4f3c4ccf3bd844198a6e57776611c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_8.asset using Guid(8e4f3c4ccf3bd844198a6e57776611c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86478f6343e58af068289878fa86143e') in 0.0139275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_50.asset
+  artifactKey: Guid(4330629484d8bbb4ab8e4c50117d427f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_50.asset using Guid(4330629484d8bbb4ab8e4c50117d427f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b60186865db536d4717f80d3a31b788') in 0.0169403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_57.asset
+  artifactKey: Guid(ee3d913e266e37d4ba430f05ac7e0f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_57.asset using Guid(ee3d913e266e37d4ba430f05ac7e0f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c89019dafb21378242cdf9a6cf3834f') in 0.0143865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_93.asset
+  artifactKey: Guid(79e52e1459b7b6841ad3ccc820e8cd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_93.asset using Guid(79e52e1459b7b6841ad3ccc820e8cd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd71cafc7fecbf1ee43a9f3faf82d2aa6') in 0.0172844 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_87.asset
+  artifactKey: Guid(7ab88cf3567fe3845885d9c192e82a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_87.asset using Guid(7ab88cf3567fe3845885d9c192e82a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8da70b38de832b5f243237f495f06737') in 0.012798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_159.asset
+  artifactKey: Guid(f4865ea081e48cf48aab89b91ece8c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_159.asset using Guid(f4865ea081e48cf48aab89b91ece8c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cebd46afd79ccd156c9577d8efde2138') in 0.0136113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_166.asset
+  artifactKey: Guid(4a356b9c16683be41b94e4557f645cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_166.asset using Guid(4a356b9c16683be41b94e4557f645cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f07280bd7db7df80305a822a7d3dbb1') in 0.0152617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_208.asset
+  artifactKey: Guid(ebea6676939973e4a8f82f0272773d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_208.asset using Guid(ebea6676939973e4a8f82f0272773d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '525e6bd4327194ee5370bc12b74a799c') in 0.0166802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_229.asset
+  artifactKey: Guid(b31e0d79da889264191ea4699e4ad4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_229.asset using Guid(b31e0d79da889264191ea4699e4ad4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1192db941c39e66e727610ea56a3d241') in 0.0135657 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_133.asset
+  artifactKey: Guid(dc03d67179b19454fa4533c7664214ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_133.asset using Guid(dc03d67179b19454fa4533c7664214ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65d018d4979d41b7dbb1bd17c6fb38f9') in 0.0140325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_201.asset
+  artifactKey: Guid(4d24f5d8b313cc949a520495fde0c61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_201.asset using Guid(4d24f5d8b313cc949a520495fde0c61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a92e885a0c5b1fd13bd4c2dee249157d') in 0.0130027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_130.asset
+  artifactKey: Guid(4eee82b22c0f79a41a5b13089366b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_130.asset using Guid(4eee82b22c0f79a41a5b13089366b033) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4eb4d2e07d7c0ba253eaf71e1f1b6fb7') in 0.0173975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_224.asset
+  artifactKey: Guid(d0c75dce952ceef47a7787f5caa5d570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_224.asset using Guid(d0c75dce952ceef47a7787f5caa5d570) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a108daf3abceeeda82fcd556d6f5077d') in 0.0166134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_253.asset
+  artifactKey: Guid(5034b918837c1ab43b8ece03d4a04fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_253.asset using Guid(5034b918837c1ab43b8ece03d4a04fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03b478deb000c1ff05555c7b295e2b2e') in 0.0180406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_88.asset
+  artifactKey: Guid(bb21753a0686a4741bd6cc4e4398b5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_88.asset using Guid(bb21753a0686a4741bd6cc4e4398b5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e88869fc2c034338d6c8ce1e8e7600d5') in 0.0184179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_179.asset
+  artifactKey: Guid(fb8f8419b537e714b967801b7e626a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_179.asset using Guid(fb8f8419b537e714b967801b7e626a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21570a79073f939914e98dbe95a88bd6') in 0.017723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_145.asset
+  artifactKey: Guid(d78c59126ce2dbf4f95e5848b6a4872f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_145.asset using Guid(d78c59126ce2dbf4f95e5848b6a4872f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4e710770d2c4378b598ce3d172e3113') in 0.0167794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_116.asset
+  artifactKey: Guid(71fb288ec793d454baeda862f467d70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_116.asset using Guid(71fb288ec793d454baeda862f467d70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1339ba3c9c98221f674ecdcb2306bfeb') in 0.0145631 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_96.asset
+  artifactKey: Guid(904b80bf794db344f9e5e3d9426e14e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_96.asset using Guid(904b80bf794db344f9e5e3d9426e14e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c68190bb3a4e1f64933b535fc2876b3d') in 0.014582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_215.asset
+  artifactKey: Guid(3e28d07e10bac894eac72b05bd0d09ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_215.asset using Guid(3e28d07e10bac894eac72b05bd0d09ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b42226801a5e944d6f75b27fd72e22db') in 0.0139008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_240.asset
+  artifactKey: Guid(af1dee02a9a898b479aa8884e7c890e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_240.asset using Guid(af1dee02a9a898b479aa8884e7c890e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '367a205e8e9c186a5b613690dfb57719') in 0.0143851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_108.asset
+  artifactKey: Guid(5d636299a2d7bb14e97e175c7f72d346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_108.asset using Guid(5d636299a2d7bb14e97e175c7f72d346) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c79bd4cf398efa3b91fa1afdd6942a5') in 0.016538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_250.asset
+  artifactKey: Guid(4ae6b3eac217de44aabc5e26f2b92e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_250.asset using Guid(4ae6b3eac217de44aabc5e26f2b92e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e9598a7ada62b6779e3295194314a51') in 0.0157972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_205.asset
+  artifactKey: Guid(b9de1f32cc7b3284dac17d74b57635cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_205.asset using Guid(b9de1f32cc7b3284dac17d74b57635cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8566e223be4116131e067f4286ecdd2f') in 0.008578 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_121.asset
+  artifactKey: Guid(ef6f9dad5427b1d4ab9601a68e0fe325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_121.asset using Guid(ef6f9dad5427b1d4ab9601a68e0fe325) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf58f9887f8a066dced7947db6c225fb') in 0.0153942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_255.asset
+  artifactKey: Guid(6ee9119b4b668964b88b8745708f8f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_255.asset using Guid(6ee9119b4b668964b88b8745708f8f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '989617a2cc6ac346f5474b9d1404907d') in 0.0165447 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_102.asset
+  artifactKey: Guid(3a846d0b7102fcf4cac146a11f8b4615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_102.asset using Guid(3a846d0b7102fcf4cac146a11f8b4615) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54c6b849b6e0fc10c574a293b3a5f657') in 0.017294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_170.asset
+  artifactKey: Guid(ca5236c096e3eb94d8dbb1d8df704f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_170.asset using Guid(ca5236c096e3eb94d8dbb1d8df704f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69b21c35ca309c81adc1f48ff43c3a14') in 0.0170618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_95.asset
+  artifactKey: Guid(de1b2153e5a93894baf44429ec05c0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_95.asset using Guid(de1b2153e5a93894baf44429ec05c0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f70e05f93f81e73e876ee885363f2a7') in 0.0148978 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_220.asset
+  artifactKey: Guid(4c2e4dbc6ec62dd45a6b934457298aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_220.asset using Guid(4c2e4dbc6ec62dd45a6b934457298aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '342b97dec1eaaf7260c57f040ce2f010') in 0.0161526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_70.asset
+  artifactKey: Guid(35caec3aab313724aa2cbf89613da7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_70.asset using Guid(35caec3aab313724aa2cbf89613da7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ca8bd48354e638e74ddf14b43cb3f78') in 0.0165377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_129.asset
+  artifactKey: Guid(364ff0629a690dd4bbe9f3aa9c55f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_129.asset using Guid(364ff0629a690dd4bbe9f3aa9c55f3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '140f2ff74b7436f8d6cbc628c9d9b064') in 0.0131522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_109.asset
+  artifactKey: Guid(60ab043e2971bba4eb36b0f16e594784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_109.asset using Guid(60ab043e2971bba4eb36b0f16e594784) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc9abcdfecad55e821f163da781e208b') in 0.0152095 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_180.asset
+  artifactKey: Guid(b82d6a0c07a0da547b43909b94dd3e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_180.asset using Guid(b82d6a0c07a0da547b43909b94dd3e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45ac94b364935f0008ef141348485084') in 0.0145434 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_60.asset
+  artifactKey: Guid(112567df69ca657479f032f50abf7c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_60.asset using Guid(112567df69ca657479f032f50abf7c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0087b35bee6eda8d8ce0456e75c0c3ac') in 0.0182359 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_247.asset
+  artifactKey: Guid(558a784b05d105f4fba8149221a80480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_247.asset using Guid(558a784b05d105f4fba8149221a80480) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6455128527b63d83745eb07dc562cb1') in 0.0158547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_126.asset
+  artifactKey: Guid(4f97ca1accc0f86448f8d946669bb3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_126.asset using Guid(4f97ca1accc0f86448f8d946669bb3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f0bbaa3b4a91eb0106db3ac528d9ae5') in 0.0156103 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_119.asset
+  artifactKey: Guid(da5f92e619691bd4e91b52b133f86cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_119.asset using Guid(da5f92e619691bd4e91b52b133f86cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '265aa79b90e24f04b7884ca65563957f') in 0.0149549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_228.asset
+  artifactKey: Guid(6b0a02c4811f802429c4c5d92f557392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_228.asset using Guid(6b0a02c4811f802429c4c5d92f557392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13cf972052bd49eca8da0a69924c4da5') in 0.014908 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_92.asset
+  artifactKey: Guid(46da602ba0812a8488dae89d00ce7b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_92.asset using Guid(46da602ba0812a8488dae89d00ce7b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5981594f14e1f3adf44c2b001535b49') in 0.0161841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_123.asset
+  artifactKey: Guid(a5b291b9113bde043b4a4074ebcc0604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_123.asset using Guid(a5b291b9113bde043b4a4074ebcc0604) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b80c709c896d1aa948dd10bdf9484bd') in 0.0161162 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_127.asset
+  artifactKey: Guid(ca94e7a2ef32c234e866bbdcfd890046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_127.asset using Guid(ca94e7a2ef32c234e866bbdcfd890046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fbc914956e252d72546706eed6716700') in 0.0152074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_157.asset
+  artifactKey: Guid(5fa3991424240e0498f3e0a581931cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_157.asset using Guid(5fa3991424240e0498f3e0a581931cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f22f0c2bac08c3648a547b56aac2bb54') in 0.0158249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_105.asset
+  artifactKey: Guid(45d4b4eb5269b6848aa3fd29386f1dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_105.asset using Guid(45d4b4eb5269b6848aa3fd29386f1dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e5601b458b9421514bdd342919a9be5') in 0.0177119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_147.asset
+  artifactKey: Guid(397864e6175bf5b458e223189641275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_147.asset using Guid(397864e6175bf5b458e223189641275c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a972eaf0e6492b9c0e9e10f8f316d3dd') in 0.0158802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_270.asset
+  artifactKey: Guid(247a067a36dc1974eba73e2206d446d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_270.asset using Guid(247a067a36dc1974eba73e2206d446d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f907a1b3cb57566240203fc58b93240') in 0.0143667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_162.asset
+  artifactKey: Guid(10f27a24f007f214b8e4659eedffaf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_162.asset using Guid(10f27a24f007f214b8e4659eedffaf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39b9945671c862c4a12447ee1d0d0f50') in 0.0187931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_158.asset
+  artifactKey: Guid(697e1e22f2f3fda4c93082d130bbeb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_158.asset using Guid(697e1e22f2f3fda4c93082d130bbeb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd30d9bc1ecac710c0d99eca83141e13b') in 0.0176765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_61.asset
+  artifactKey: Guid(a283b6af511e21341b95d913688f9b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_61.asset using Guid(a283b6af511e21341b95d913688f9b7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '359486931eae477833c2def170bc0b68') in 0.0183564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_85.asset
+  artifactKey: Guid(8b5094e6b5e897447b4428cdbf248bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_85.asset using Guid(8b5094e6b5e897447b4428cdbf248bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38e88e6598ba1f7082098ba86b4fb29b') in 0.0155567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_200.asset
+  artifactKey: Guid(5054ea2a8af7aeb4f88bbe54f60d81a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_200.asset using Guid(5054ea2a8af7aeb4f88bbe54f60d81a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a9bc1e0a10bbb177bd21ae016e6c49a') in 0.0143013 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_154.asset
+  artifactKey: Guid(d8ce22b1369f0be469f8a0f6da9b83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_154.asset using Guid(d8ce22b1369f0be469f8a0f6da9b83ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a775eea664b7f17819e282e879c25b7') in 0.0132951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_248.asset
+  artifactKey: Guid(39fba2df939963440a528bb6891861dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_248.asset using Guid(39fba2df939963440a528bb6891861dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65890bf10274080ff5e8877b748866d9') in 0.0128765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_142.asset
+  artifactKey: Guid(2dab4966514472942ba9143ceaa741cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_142.asset using Guid(2dab4966514472942ba9143ceaa741cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0537ab39e935c4c3b5816c0b41f8d8a') in 0.0130222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_269.asset
+  artifactKey: Guid(4fb1d57332ab5ec41a70e5593f7993b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_269.asset using Guid(4fb1d57332ab5ec41a70e5593f7993b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28c899dffa5020f22638d2ac372dd9f6') in 0.0138242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_169.asset
+  artifactKey: Guid(8fa2a7bdf962a2247a5d108adb0f89e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_169.asset using Guid(8fa2a7bdf962a2247a5d108adb0f89e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ae90d6824ecf3b4a92ba9fc3e4baa16') in 0.0139618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_258.asset
+  artifactKey: Guid(6baf5fb46be130f4c8a3a6bac28946ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_258.asset using Guid(6baf5fb46be130f4c8a3a6bac28946ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aeb8890b8b789b13d41b7045813298f1') in 0.0126504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_99.asset
+  artifactKey: Guid(d12778f9b2f418e44af4cd95e4ce78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_99.asset using Guid(d12778f9b2f418e44af4cd95e4ce78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9762670ba47ae906d40a57c97fbe94b') in 0.0154255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_100.asset
+  artifactKey: Guid(33d559bb2124cd6448c82d0e35820cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_100.asset using Guid(33d559bb2124cd6448c82d0e35820cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ef03b6583d1ea6e84393f3d499f61c9') in 0.0181848 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_59.asset
+  artifactKey: Guid(f3c7ca03958b9744989ceb55a1519a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_59.asset using Guid(f3c7ca03958b9744989ceb55a1519a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0648ba24c07918f3813555e8d1af8d93') in 0.0162964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_113.asset
+  artifactKey: Guid(3b1b3bb5680af48469261e412d92078d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_113.asset using Guid(3b1b3bb5680af48469261e412d92078d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8388cb2bd27e50433df8312cd5b82c47') in 0.0141757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_232.asset
+  artifactKey: Guid(71a02592aae6fce48b35ec64b5377274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_232.asset using Guid(71a02592aae6fce48b35ec64b5377274) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38e2488b68a3de472ffad7914344c53a') in 0.0162913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_107.asset
+  artifactKey: Guid(984aff4cb4fd44c4999eee123621155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_107.asset using Guid(984aff4cb4fd44c4999eee123621155e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fce1382239551be94bd51b7935ac085c') in 0.0163607 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_210.asset
+  artifactKey: Guid(3f65f73d341bf4b4fb3475ec1e157fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_210.asset using Guid(3f65f73d341bf4b4fb3475ec1e157fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c2e0171c00bd1130bd65b26e7c4c5aa') in 0.0164015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_199.asset
+  artifactKey: Guid(1da2c9982abdab3449053d786040ea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_199.asset using Guid(1da2c9982abdab3449053d786040ea04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a996e169f56612df84be642003f9079') in 0.0161989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_191.asset
+  artifactKey: Guid(675dafa2da3cb274dbf1bd94aceffb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_191.asset using Guid(675dafa2da3cb274dbf1bd94aceffb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '424956943e580f27709c9f878e4becd6') in 0.01451 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_81.asset
+  artifactKey: Guid(4a291ae7db306764ba11dab4197b3068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_81.asset using Guid(4a291ae7db306764ba11dab4197b3068) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9f9b334bf3d503c54534ca9ba4d58f4') in 0.0139914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_225.asset
+  artifactKey: Guid(9259f769db1186f46a4d01e8e25bd26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_225.asset using Guid(9259f769db1186f46a4d01e8e25bd26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7fbd028b73655c0daf139d5e1bf09b99') in 0.0144334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_67.asset
+  artifactKey: Guid(2e3c880af8a603c44b6d5a326e630a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_67.asset using Guid(2e3c880af8a603c44b6d5a326e630a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69c81cca9f42097ba93fe3962e80f698') in 0.0133841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_197.asset
+  artifactKey: Guid(1113a9c6e86326f4e98edef2c0b9c38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_197.asset using Guid(1113a9c6e86326f4e98edef2c0b9c38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b35d5808f6b6f736e42bc7fb21342542') in 0.0139262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_203.asset
+  artifactKey: Guid(54d0edd6222150c479bd81ae0e5c22ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_203.asset using Guid(54d0edd6222150c479bd81ae0e5c22ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cb998d79f404a9816b1e8fa00ae2832') in 0.0133062 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_272.asset
+  artifactKey: Guid(3ec994cac1e62f84e9f3f7f134ac980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_272.asset using Guid(3ec994cac1e62f84e9f3f7f134ac980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbd236ffd30b50e39b1e06299eef69d8') in 0.0124411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_233.asset
+  artifactKey: Guid(8606c27dfc6cec241846b379fede5180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_233.asset using Guid(8606c27dfc6cec241846b379fede5180) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6e3ba953befe77c186957c2eca6c09c') in 0.0154682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_239.asset
+  artifactKey: Guid(361ccf289f866e644bfc4f1960ffa32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_239.asset using Guid(361ccf289f866e644bfc4f1960ffa32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84aa7cf00a0cc7b963af2090a207b34e') in 0.0137467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_244.asset
+  artifactKey: Guid(8fb4bead0bdc6a4499f6198af1c465a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_244.asset using Guid(8fb4bead0bdc6a4499f6198af1c465a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b9b48f2731887f544fc3f365614533a') in 0.0156007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_177.asset
+  artifactKey: Guid(a75782b084a75b647a8d2b7e0f53c5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_177.asset using Guid(a75782b084a75b647a8d2b7e0f53c5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '550c0e67f231477d26f85eadc1be53c7') in 0.0150601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_89.asset
+  artifactKey: Guid(8382d2503c27bba48a4d8abbb98c7c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_89.asset using Guid(8382d2503c27bba48a4d8abbb98c7c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63bf1f3a748736fa1621542750d69b68') in 0.0145353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_103.asset
+  artifactKey: Guid(8d7cdccb28d3aeb4ea870e0472989a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_103.asset using Guid(8d7cdccb28d3aeb4ea870e0472989a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c1d4eaae917ca81fa1455e2cf0b01b4') in 0.0141847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_161.asset
+  artifactKey: Guid(fa83db3e8cbad104ca4ee22b9810ae59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_161.asset using Guid(fa83db3e8cbad104ca4ee22b9810ae59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f3df1351c69ca98c58c9a4c78f43876') in 0.0156674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_274.asset
+  artifactKey: Guid(6e6d3234aca3c404e821e0e031acc845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_274.asset using Guid(6e6d3234aca3c404e821e0e031acc845) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b52d8fc4b5e5e113129e05a7465c1f1') in 0.0184785 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_280.asset
+  artifactKey: Guid(a608baca1def38141a8ecea96a4980d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_280.asset using Guid(a608baca1def38141a8ecea96a4980d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70f4c62fdc7c9e7881bf9c540784d706') in 0.0155297 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_223.asset
+  artifactKey: Guid(131af31ee54bdf448b5cf1e511204db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_223.asset using Guid(131af31ee54bdf448b5cf1e511204db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6fe1895d53072b8806f162ff487dd29') in 0.0156413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_137.asset
+  artifactKey: Guid(602278c1d987a9b42a659dc6207dbb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_137.asset using Guid(602278c1d987a9b42a659dc6207dbb22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c910889ece9e3dc78126c803522a02c') in 0.0154818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_238.asset
+  artifactKey: Guid(8addf768d40d6c64ba33a4b38786bd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_238.asset using Guid(8addf768d40d6c64ba33a4b38786bd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d8fa9ded8627bb23ab404a3de0802d3') in 0.0149123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_124.asset
+  artifactKey: Guid(31f626e757ab4f44cbcae46bd885a00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_124.asset using Guid(31f626e757ab4f44cbcae46bd885a00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '144051290565051202a1fdd517ebd883') in 0.0153684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_217.asset
+  artifactKey: Guid(a4c593db116f7894c907f8364df2853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_217.asset using Guid(a4c593db116f7894c907f8364df2853e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e1dbe8cd4c2d62cf0f9b8825f166526') in 0.010099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_185.asset
+  artifactKey: Guid(956a471fed62f004296dd9fe6aa1766b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_185.asset using Guid(956a471fed62f004296dd9fe6aa1766b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '308f24203b84dcdfa6db92e7d91df3f5') in 0.0152757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_216.asset
+  artifactKey: Guid(5f32ece3d99fdaf40bd857b2a65f5adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_216.asset using Guid(5f32ece3d99fdaf40bd857b2a65f5adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5425aed114fd8542f4c06b447152359e') in 0.0166432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_278.asset
+  artifactKey: Guid(475ac5c4d9a23c643aa3f39b17fce5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_278.asset using Guid(475ac5c4d9a23c643aa3f39b17fce5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4229de72c936b3dbe56306fcb4103276') in 0.0137428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_187.asset
+  artifactKey: Guid(bfb38bf49f58c584db3c5ad679fc6200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_187.asset using Guid(bfb38bf49f58c584db3c5ad679fc6200) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ba6f07886a1474d99143a46285afb61') in 0.0162623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_74.asset
+  artifactKey: Guid(4237c02f90e2ce64d8363f6a31c9c7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_74.asset using Guid(4237c02f90e2ce64d8363f6a31c9c7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13fc4e0b35c0a54edb2da828b0f6563f') in 0.0205802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_222.asset
+  artifactKey: Guid(25a16e946369019479dd2465f4199d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_222.asset using Guid(25a16e946369019479dd2465f4199d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '76d34ced9d9468946bff50e9596516b6') in 0.0164104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_256.asset
+  artifactKey: Guid(ee894e6d2467ac945b13158eadcbe009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_256.asset using Guid(ee894e6d2467ac945b13158eadcbe009) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3ebd332df2dc8cdfa848d34e77ca172') in 0.0163983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_148.asset
+  artifactKey: Guid(7b21afe654eae1c44899a55ffbd50d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_148.asset using Guid(7b21afe654eae1c44899a55ffbd50d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51721c158edab513a3c1f82447134f7a') in 0.0164957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_213.asset
+  artifactKey: Guid(82c599f670dc719418f22ae465fb259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_213.asset using Guid(82c599f670dc719418f22ae465fb259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c85fb3a5be95bb48fd318d010862a75') in 0.0179204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_209.asset
+  artifactKey: Guid(fa023520517f9c04f9a695e2457fa4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_209.asset using Guid(fa023520517f9c04f9a695e2457fa4fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2488ca9c74cf153ff9e8787e90f94d86') in 0.016398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_218.asset
+  artifactKey: Guid(2175136e75c4c3c43a6cc8dff3d82ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_218.asset using Guid(2175136e75c4c3c43a6cc8dff3d82ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '376f85f6ee7cac7c95028cca9376f33b') in 0.0191659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_84.asset
+  artifactKey: Guid(163306cbf339d7d44abdbe90bc7ede68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_84.asset using Guid(163306cbf339d7d44abdbe90bc7ede68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe9d0b6f550e8da79a011867ad30bc00') in 0.014911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_246.asset
+  artifactKey: Guid(e6091adb36d44034e9df565a6d9bf6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_246.asset using Guid(e6091adb36d44034e9df565a6d9bf6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38e57de9831af7868b88385bb6bd587c') in 0.01554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_79.asset
+  artifactKey: Guid(2cf3e86de0e96ee46bd8d143c4fe9555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_79.asset using Guid(2cf3e86de0e96ee46bd8d143c4fe9555) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a51b50114dd49cc240dcddcdad6c2668') in 0.0174162 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_155.asset
+  artifactKey: Guid(f178a3990794c234fa0bbd6ca8147c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_155.asset using Guid(f178a3990794c234fa0bbd6ca8147c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bfcc01d6c0e7aff3ae7b734b15770060') in 0.0149169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_140.asset
+  artifactKey: Guid(200fa47098ab53a418edc98f2a2823de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_140.asset using Guid(200fa47098ab53a418edc98f2a2823de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b85758026aba078abab4062e5b8785f') in 0.0157039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_73.asset
+  artifactKey: Guid(8834d1c8a8cf3a94e88fbfcc45a475a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_73.asset using Guid(8834d1c8a8cf3a94e88fbfcc45a475a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bed35c302715a2d5981b1d277320243e') in 0.016371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_241.asset
+  artifactKey: Guid(058c9551b7602f64092843cd28de2159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_241.asset using Guid(058c9551b7602f64092843cd28de2159) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15fbbc4c8ac623299133f4529d74115f') in 0.007701 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_68.asset
+  artifactKey: Guid(fe46ee4af30da604a86a5cc1f76a3d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_68.asset using Guid(fe46ee4af30da604a86a5cc1f76a3d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4dd109a4502a01cdf611b4f578f4d2d') in 0.0314078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_283.asset
+  artifactKey: Guid(3f1cf18cb4b6d4a46a4f7aa551047001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_283.asset using Guid(3f1cf18cb4b6d4a46a4f7aa551047001) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e715bc6bc47070f78f29378bbe5508ca') in 0.0148879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_101.asset
+  artifactKey: Guid(7e7c99cae2fdedd479ac1d972bac97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_101.asset using Guid(7e7c99cae2fdedd479ac1d972bac97f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2574c84cdfe165330010de23025af1ca') in 0.0181046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_149.asset
+  artifactKey: Guid(bc4f5a15d45a7f34ba25ce4635fab127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_149.asset using Guid(bc4f5a15d45a7f34ba25ce4635fab127) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c6dd34705214039dc5d6e383573299c') in 0.0234972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_78.asset
+  artifactKey: Guid(99571594b796c4d44afa3f37751bf3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_78.asset using Guid(99571594b796c4d44afa3f37751bf3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '202d16a62d0ba9e08181ee17d3d696c7') in 0.0179851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_178.asset
+  artifactKey: Guid(92b28fbda2395b14ab3fd9283ca9e8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_178.asset using Guid(92b28fbda2395b14ab3fd9283ca9e8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5dedb768f1234ef0ce5024cf0bf5eda') in 0.0173609 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_64.asset
+  artifactKey: Guid(7c5c91084cfb9694eac2fcc2446cc54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_64.asset using Guid(7c5c91084cfb9694eac2fcc2446cc54b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9133567ec14f5a94cff3aa34716f77bc') in 0.0160102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_131.asset
+  artifactKey: Guid(edafdae74205ee24ba43dc5d4d3ac5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_131.asset using Guid(edafdae74205ee24ba43dc5d4d3ac5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52292b368057317d538110b87f279d40') in 0.0181264 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_219.asset
+  artifactKey: Guid(c9e60efcbe099e4419769e183c601566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_219.asset using Guid(c9e60efcbe099e4419769e183c601566) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18a3268c8d9a5ca84ae9481be6c5a17d') in 0.015204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_212.asset
+  artifactKey: Guid(0772d0620693f814e8bff2d9d70b7106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_212.asset using Guid(0772d0620693f814e8bff2d9d70b7106) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec7148e391666c02db9e19630b0ea6ab') in 0.0163205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_282.asset
+  artifactKey: Guid(81b225c2d550c11449153d7c79871f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_282.asset using Guid(81b225c2d550c11449153d7c79871f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a738fd5c5b31722384bb3869014fce9c') in 0.0150885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_55.asset
+  artifactKey: Guid(09fdd2605f48d0f4a9378f81ae1c47f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_55.asset using Guid(09fdd2605f48d0f4a9378f81ae1c47f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa8d714a1aac073a4007cc5d85d21107') in 0.0155617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_122.asset
+  artifactKey: Guid(888bfac22dfa5c3489b7fa8cba6b26a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_122.asset using Guid(888bfac22dfa5c3489b7fa8cba6b26a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b84e1b0099ca14db8778194c813bb252') in 0.0139875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_53.asset
+  artifactKey: Guid(b32b6b5791e3a5243a8dac3db4912b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/GroundPalette/Buildings_53.asset using Guid(b32b6b5791e3a5243a8dac3db4912b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf982f5958654b32707d3a99945c0827') in 0.0165411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 69169.285169 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/third_palette/Props-01_1.asset
+  artifactKey: Guid(c4ba8aa2dd62696489b887a194dcdd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/third_palette/Props-01_1.asset using Guid(c4ba8aa2dd62696489b887a194dcdd11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bd7607e490c0ec8a052af5832a581bd') in 0.539045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Sprites/Sidescroller Shooter - Central City/third_palette/third_palette.prefab
+  artifactKey: Guid(a0859fee31d4d5044a61ad015574f308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sidescroller Shooter - Central City/third_palette/third_palette.prefab using Guid(a0859fee31d4d5044a61ad015574f308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e856379f2e1c2642fac8f7b892a4f36') in 1.619015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
