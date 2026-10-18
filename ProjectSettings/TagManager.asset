@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - firstDecorations
-  - secondDecorations
-  - 
-  - 
+  - FirstDecorations
+  - SecondDecorations
+  - ThirdDecorations
+  - FourthDecorations
   - 
   - 
   - 
@@ -55,6 +55,9 @@ TagManager:
     locked: 0
   - name: fourth_decorations
     uniqueID: 3906748333
+    locked: 0
+  - name: fifth_decorations
+    uniqueID: 522245593
     locked: 0
   m_RenderingLayers:
   - Default
