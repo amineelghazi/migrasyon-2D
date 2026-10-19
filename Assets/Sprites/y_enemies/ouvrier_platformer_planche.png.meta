@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a6e763410aff85941a888f2e3df1d7bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7555427258041727355
+    second: ouvrier_platformer_planche_0
+  - first:
+      213: 2447722329863538759
+    second: ouvrier_platformer_planche_1
+  - first:
+      213: -6189952471173686618
+    second: ouvrier_platformer_planche_2
+  - first:
+      213: -1006640003008200009
+    second: ouvrier_platformer_planche_3
+  - first:
+      213: 4768291183546566541
+    second: ouvrier_platformer_planche_4
+  - first:
+      213: 826354250972074858
+    second: ouvrier_platformer_planche_5
+  - first:
+      213: -5563655106194046092
+    second: ouvrier_platformer_planche_6
+  - first:
+      213: 8789866780104725916
+    second: ouvrier_platformer_planche_7
+  - first:
+      213: -280509361254096782
+    second: ouvrier_platformer_planche_8
+  - first:
+      213: -7016508611842694016
+    second: ouvrier_platformer_planche_9
+  - first:
+      213: 4312105181515679927
+    second: ouvrier_platformer_planche_10
+  - first:
+      213: -2306135986698973757
+    second: ouvrier_platformer_planche_11
+  - first:
+      213: 1645320054746897635
+    second: ouvrier_platformer_planche_12
+  - first:
+      213: 7135815620236476341
+    second: ouvrier_platformer_planche_13
+  - first:
+      213: -7246939339661525770
+    second: ouvrier_platformer_planche_14
+  - first:
+      213: 57724914159907100
+    second: ouvrier_platformer_planche_15
+  - first:
+      213: -7218554295355680424
+    second: ouvrier_platformer_planche_16
+  - first:
+      213: 3991700537301756419
+    second: ouvrier_platformer_planche_17
+  - first:
+      213: 5254441209570763134
+    second: ouvrier_platformer_planche_18
+  - first:
+      213: -4154393777638555156
+    second: ouvrier_platformer_planche_19
+  - first:
+      213: 2427618774729106821
+    second: ouvrier_platformer_planche_20
+  - first:
+      213: 5993463448244192675
+    second: ouvrier_platformer_planche_21
+  - first:
+      213: 2667737807936909894
+    second: ouvrier_platformer_planche_22
+  - first:
+      213: 8494338564783503743
+    second: ouvrier_platformer_planche_23
+  - first:
+      213: -810058722843493262
+    second: ouvrier_platformer_planche_24
+  - first:
+      213: -8043931748718630490
+    second: ouvrier_platformer_planche_25
+  - first:
+      213: -8605158332953055834
+    second: ouvrier_platformer_planche_26
+  - first:
+      213: 5678212111695121489
+    second: ouvrier_platformer_planche_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7971e19f054ad860800000000000000
+      internalID: 7555427258041727355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ce4c8d7e08f120800000000000000
+      internalID: 2447722329863538759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1423f50fd81aa0800000000000000
+      internalID: -6189952471173686618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b28ffb2042b702f0800000000000000
+      internalID: -1006640003008200009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d878be4619f5c2240800000000000000
+      internalID: 4768291183546566541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6313d320dcc77b00800000000000000
+      internalID: 826354250972074858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473048e882de9c2b0800000000000000
+      internalID: -5563655106194046092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95162b0441ebf970800000000000000
+      internalID: 8789866780104725916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 127
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270274ed83e6b1cf0800000000000000
+      internalID: -280509361254096782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a5a3b79a50ae90800000000000000
+      internalID: -7016508611842694016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b80d5ae0dca7db30800000000000000
+      internalID: 4312105181515679927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 127
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd001dd985feffd0800000000000000
+      internalID: -2306135986698973757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd30d5fd955d610800000000000000
+      internalID: 1645320054746897635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff0eadf72870360800000000000000
+      internalID: 7135815620236476341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbba60113bd6b90800000000000000
+      internalID: -7246939339661525770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f03be0841dc000800000000000000
+      internalID: 57724914159907100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85954792d1b82db90800000000000000
+      internalID: -7218554295355680424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a6b9f5d7e556730800000000000000
+      internalID: 3991700537301756419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71a3add0768be840800000000000000
+      internalID: 5254441209570763134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c2c2ced0a856c0800000000000000
+      internalID: -4154393777638555156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5852ccdd962a0b120800000000000000
+      internalID: 2427618774729106821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a502ee504f0d2350800000000000000
+      internalID: 5993463448244192675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64275fbe665b50520800000000000000
+      internalID: 2667737807936909894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7972d37be3f1e570800000000000000
+      internalID: 8494338564783503743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf4b922e712c4f0800000000000000
+      internalID: -810058722843493262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a32071b63e5090800000000000000
+      internalID: -8043931748718630490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad27589616549880800000000000000
+      internalID: -8605158332953055834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ouvrier_platformer_planche_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c88e4c4df0dce40800000000000000
+      internalID: 5678212111695121489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ouvrier_platformer_planche_0: 7555427258041727355
+      ouvrier_platformer_planche_1: 2447722329863538759
+      ouvrier_platformer_planche_10: 4312105181515679927
+      ouvrier_platformer_planche_11: -2306135986698973757
+      ouvrier_platformer_planche_12: 1645320054746897635
+      ouvrier_platformer_planche_13: 7135815620236476341
+      ouvrier_platformer_planche_14: -7246939339661525770
+      ouvrier_platformer_planche_15: 57724914159907100
+      ouvrier_platformer_planche_16: -7218554295355680424
+      ouvrier_platformer_planche_17: 3991700537301756419
+      ouvrier_platformer_planche_18: 5254441209570763134
+      ouvrier_platformer_planche_19: -4154393777638555156
+      ouvrier_platformer_planche_2: -6189952471173686618
+      ouvrier_platformer_planche_20: 2427618774729106821
+      ouvrier_platformer_planche_21: 5993463448244192675
+      ouvrier_platformer_planche_22: 2667737807936909894
+      ouvrier_platformer_planche_23: 8494338564783503743
+      ouvrier_platformer_planche_24: -810058722843493262
+      ouvrier_platformer_planche_25: -8043931748718630490
+      ouvrier_platformer_planche_26: -8605158332953055834
+      ouvrier_platformer_planche_27: 5678212111695121489
+      ouvrier_platformer_planche_3: -1006640003008200009
+      ouvrier_platformer_planche_4: 4768291183546566541
+      ouvrier_platformer_planche_5: 826354250972074858
+      ouvrier_platformer_planche_6: -5563655106194046092
+      ouvrier_platformer_planche_7: 8789866780104725916
+      ouvrier_platformer_planche_8: -280509361254096782
+      ouvrier_platformer_planche_9: -7016508611842694016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
