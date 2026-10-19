@@ -5,23 +5,37 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement")]
-    [SerializeField] private float moveSpeed = 6f;
+    [SerializeField] private float walkSpeed = 4f;
+    [SerializeField] private float runSpeed = 8f;
     [SerializeField] private float jumpForce = 12f;
 
     [Header("Ground Check")]
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float groundCheckDistance = 0.05f;
 
+    [Header("Animator State Names (must match the boxes in the Animator window)")]
+    [SerializeField] private string idleState = "Idle";
+    [SerializeField] private string walkState = "Walk";
+    [SerializeField] private string runState = "Run";
+    [SerializeField] private string jumpState = "Jump";
+    [SerializeField] private string defenseState = "Defense";
+
     private Rigidbody2D rb;
     private Collider2D col;
+    private Animator anim;
+
     private float moveInput;
+    private bool isRunning;
+    private bool isDefending;
     private bool isGrounded;
     private bool jumpPressed;
+    private string currentState = "";
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         col = GetComponent<Collider2D>();
+        anim = GetComponentInChildren<Animator>();
     }
 
     private void Update()
@@ -29,12 +43,19 @@ public class PlayerMovement : MonoBehaviour
         var kb = Keyboard.current;
         if (kb == null) return;
 
-        moveInput = 0f;
-        if (kb.aKey.isPressed || kb.leftArrowKey.isPressed) moveInput -= 1f;
-        if (kb.dKey.isPressed || kb.rightArrowKey.isPressed) moveInput += 1f;
+        isDefending = kb.fKey.isPressed && isGrounded;
 
-        if (kb.spaceKey.wasPressedThisFrame || kb.wKey.wasPressedThisFrame)
-            jumpPressed = true;
+        moveInput = 0f;
+        if (!isDefending)
+        {
+            if (kb.aKey.isPressed || kb.leftArrowKey.isPressed) moveInput -= 1f;
+            if (kb.dKey.isPressed || kb.rightArrowKey.isPressed) moveInput += 1f;
+
+            if (kb.spaceKey.wasPressedThisFrame || kb.wKey.wasPressedThisFrame)
+                jumpPressed = true;
+        }
+
+        isRunning = moveInput != 0f && kb.leftShiftKey.isPressed;
 
         if (moveInput != 0f)
         {
@@ -42,6 +63,30 @@ public class PlayerMovement : MonoBehaviour
             scale.x = Mathf.Abs(scale.x) * Mathf.Sign(moveInput);
             transform.localScale = scale;
         }
+
+        UpdateAnimation();
+    }
+
+    private void UpdateAnimation()
+    {
+        if (anim == null) return;
+
+        string next;
+        if (!isGrounded) next = jumpState;
+        else if (isDefending) next = defenseState;
+        else if (moveInput != 0f) next = isRunning ? runState : walkState;
+        else next = idleState;
+
+        if (next == currentState) return;
+
+        if (!anim.HasState(0, Animator.StringToHash(next)))
+        {
+            Debug.LogWarning($"Animator has no state named '{next}'. Check the name in the Animator window.");
+            return;
+        }
+
+        anim.Play(next);
+        currentState = next;
     }
 
     private void FixedUpdate()
@@ -55,7 +100,8 @@ public class PlayerMovement : MonoBehaviour
             groundCheckDistance,
             groundLayer).collider != null;
 
-        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        float speed = isRunning ? runSpeed : walkSpeed;
+        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
 
         if (jumpPressed && isGrounded)
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
