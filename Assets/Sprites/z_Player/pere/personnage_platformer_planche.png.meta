@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: bdffe67c02f823b4ab448c886202e063
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6365719568030134761
+    second: personnage_platformer_planche_0
+  - first:
+      213: -4019488373815349190
+    second: personnage_platformer_planche_1
+  - first:
+      213: 8604694313733305558
+    second: personnage_platformer_planche_2
+  - first:
+      213: 8098656031266630964
+    second: personnage_platformer_planche_3
+  - first:
+      213: -1806007223711927228
+    second: personnage_platformer_planche_4
+  - first:
+      213: -3281785174597654280
+    second: personnage_platformer_planche_5
+  - first:
+      213: 4552669122506883357
+    second: personnage_platformer_planche_6
+  - first:
+      213: 1862492723697918704
+    second: personnage_platformer_planche_7
+  - first:
+      213: 6445232581087415450
+    second: personnage_platformer_planche_8
+  - first:
+      213: 3797444162066496339
+    second: personnage_platformer_planche_9
+  - first:
+      213: 2750430477004216270
+    second: personnage_platformer_planche_10
+  - first:
+      213: -4463389066201323768
+    second: personnage_platformer_planche_11
+  - first:
+      213: 1998278116352023548
+    second: personnage_platformer_planche_12
+  - first:
+      213: -8557333235804369807
+    second: personnage_platformer_planche_13
+  - first:
+      213: -1399537361677999504
+    second: personnage_platformer_planche_14
+  - first:
+      213: -2974943693060730366
+    second: personnage_platformer_planche_15
+  - first:
+      213: -8952461032075482797
+    second: personnage_platformer_planche_16
+  - first:
+      213: 7699147593299425825
+    second: personnage_platformer_planche_17
+  - first:
+      213: 8939089952846773580
+    second: personnage_platformer_planche_18
+  - first:
+      213: 6072611100927656281
+    second: personnage_platformer_planche_19
+  - first:
+      213: 9010544762846163251
+    second: personnage_platformer_planche_20
+  - first:
+      213: 6156210852466362884
+    second: personnage_platformer_planche_21
+  - first:
+      213: -57660935861036617
+    second: personnage_platformer_planche_22
+  - first:
+      213: -680806226759431196
+    second: personnage_platformer_planche_23
+  - first:
+      213: 8343572889751240836
+    second: personnage_platformer_planche_24
+  - first:
+      213: -9063169955113245145
+    second: personnage_platformer_planche_25
+  - first:
+      213: 5087811018490722475
+    second: personnage_platformer_planche_26
+  - first:
+      213: 2535768840272441104
+    second: personnage_platformer_planche_27
+  - first:
+      213: -8542016749677864880
+    second: personnage_platformer_planche_28
+  - first:
+      213: -1068870305371574344
+    second: personnage_platformer_planche_29
+  - first:
+      213: 8844407579203653793
+    second: personnage_platformer_planche_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personnage_platformer_planche_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e170385834975850800000000000000
+      internalID: 6365719568030134761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307ce3ce98e738c0800000000000000
+      internalID: -4019488373815349190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4b5e283e30a6770800000000000000
+      internalID: 8604694313733305558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de8bd70c4346070800000000000000
+      internalID: 8098656031266630964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4447cd8aff5cfe6e0800000000000000
+      internalID: -1806007223711927228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 127
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a6f675c1c472d0800000000000000
+      internalID: -3281785174597654280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1189e222745e2f30800000000000000
+      internalID: 4552669122506883357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a3c8a347e8d910800000000000000
+      internalID: 1862492723697918704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4d7a52e0127950800000000000000
+      internalID: 6445232581087415450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bba5e785b33b430800000000000000
+      internalID: 3797444162066496339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec79e3942fd7b2620800000000000000
+      internalID: 2750430477004216270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80725b6da4bde02c0800000000000000
+      internalID: -4463389066201323768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb59970c5f4bbb10800000000000000
+      internalID: 1998278116352023548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 127
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c8c3fb2ce3e3980800000000000000
+      internalID: -8557333235804369807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072ab434f28d39ce0800000000000000
+      internalID: -1399537361677999504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202935c1970e6b6d0800000000000000
+      internalID: -2974943693060730366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592d9d9f1872c380800000000000000
+      internalID: -8952461032075482797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7aebb1fdd8da60800000000000000
+      internalID: 7699147593299425825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df1b663f60e0c70800000000000000
+      internalID: 8939089952846773580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95103e94f9f364450800000000000000
+      internalID: 6072611100927656281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b33ec8b2eb0d70800000000000000
+      internalID: 9010544762846163251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a89af37214f6550800000000000000
+      internalID: 6156210852466362884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b916903fa5233ff0800000000000000
+      internalID: -57660935861036617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb4125085a4d86f0800000000000000
+      internalID: -680806226759431196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c33b46535ac370800000000000000
+      internalID: 8343572889751240836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266b7ec1f6293280800000000000000
+      internalID: -9063169955113245145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba835793a298b9640800000000000000
+      internalID: 5087811018490722475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f61fc335cd03320800000000000000
+      internalID: 2535768840272441104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05893021609a47980800000000000000
+      internalID: -8542016749677864880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf2d51de1c9a21f0800000000000000
+      internalID: -1068870305371574344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personnage_platformer_planche_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d43765d5adba70800000000000000
+      internalID: 8844407579203653793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      personnage_platformer_planche_0: 6365719568030134761
+      personnage_platformer_planche_1: -4019488373815349190
+      personnage_platformer_planche_10: 2750430477004216270
+      personnage_platformer_planche_11: -4463389066201323768
+      personnage_platformer_planche_12: 1998278116352023548
+      personnage_platformer_planche_13: -8557333235804369807
+      personnage_platformer_planche_14: -1399537361677999504
+      personnage_platformer_planche_15: -2974943693060730366
+      personnage_platformer_planche_16: -8952461032075482797
+      personnage_platformer_planche_17: 7699147593299425825
+      personnage_platformer_planche_18: 8939089952846773580
+      personnage_platformer_planche_19: 6072611100927656281
+      personnage_platformer_planche_2: 8604694313733305558
+      personnage_platformer_planche_20: 9010544762846163251
+      personnage_platformer_planche_21: 6156210852466362884
+      personnage_platformer_planche_22: -57660935861036617
+      personnage_platformer_planche_23: -680806226759431196
+      personnage_platformer_planche_24: 8343572889751240836
+      personnage_platformer_planche_25: -9063169955113245145
+      personnage_platformer_planche_26: 5087811018490722475
+      personnage_platformer_planche_27: 2535768840272441104
+      personnage_platformer_planche_28: -8542016749677864880
+      personnage_platformer_planche_29: -1068870305371574344
+      personnage_platformer_planche_3: 8098656031266630964
+      personnage_platformer_planche_30: 8844407579203653793
+      personnage_platformer_planche_4: -1806007223711927228
+      personnage_platformer_planche_5: -3281785174597654280
+      personnage_platformer_planche_6: 4552669122506883357
+      personnage_platformer_planche_7: 1862492723697918704
+      personnage_platformer_planche_8: 6445232581087415450
+      personnage_platformer_planche_9: 3797444162066496339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
