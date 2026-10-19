@@ -65,5 +65,11 @@ TagManager:
   - name: player
     uniqueID: 4092656865
     locked: 0
+  - name: level2ground
+    uniqueID: 514239595
+    locked: 0
+  - name: level2decorations
+    uniqueID: 1344747367
+    locked: 0
   m_RenderingLayers:
   - Default
