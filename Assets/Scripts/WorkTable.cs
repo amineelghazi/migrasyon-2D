@@ -6,6 +6,8 @@ public class WorkTable : MonoBehaviour
     [SerializeField] private QTEController qte;
     [SerializeField] private PlayerMovement player;
     [SerializeField] private GameObject prompt;   // optional: a small "E" above the table
+    [SerializeField] private float tensionOnSuccess = -15f;
+    [SerializeField] private float tensionOnFail = 25f;
 
     private bool playerInRange;
     private bool busy;
@@ -46,8 +48,11 @@ public class WorkTable : MonoBehaviour
     {
         busy = false;
         player.enabled = true;
-        Debug.Log("QTE success = " + success);
+        if(TensionManager.Instance != null)
+            TensionManager.Instance.Add(success ? tensionOnSuccess : tensionOnFail);
 
         if (playerInRange && prompt != null) prompt.SetActive(true);
+
+
     }
 }
