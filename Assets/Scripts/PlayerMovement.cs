@@ -30,12 +30,22 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private bool jumpPressed;
     private string currentState = "";
+    public bool IsGrounded => isGrounded;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         col = GetComponent<Collider2D>();
         anim = GetComponentInChildren<Animator>();
+    }
+
+    private void OnDisable()
+    {
+        currentState = "";
+        moveInput = 0f;
+        jumpPressed = false;
+        if (rb != null) rb.linearVelocity = Vector2.zero;
+        if (anim != null) anim.Play(idleState);
     }
 
     private void Update()
