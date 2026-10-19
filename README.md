@@ -19,6 +19,9 @@ Jeu de plateforme 2D inspiré de l'immigration au Québec dans les années 1970.
 
 ## Aperçu
 
+<img width="691" height="426" alt="image" src="https://github.com/user-attachments/assets/6b696c03-feca-4531-b1cb-8ff32597d73a" />
+
+
 Dans les années 1970, une famille arrive au Québec et se retrouve à la rue. Le père décroche rapidement un emploi en usine, mais y subit insultes et provocations en raison de ses origines. La mère, de son côté, affronte des situations hostiles dans son quotidien.
 
 La progression est **linéaire** : le joueur suit l'histoire sans possibilité de s'en écarter.
