@@ -19,6 +19,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private string runState = "Run";
     [SerializeField] private string jumpState = "Jump";
     [SerializeField] private string defenseState = "Defense";
+    [SerializeField] private string attackState = "Attack";
 
     private Rigidbody2D rb;
     private Collider2D col;
@@ -30,7 +31,16 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private bool jumpPressed;
     private string currentState = "";
+    private float attackUntil;
+
     public bool IsGrounded => isGrounded;
+    public bool IsAttacking => Time.time < attackUntil;
+    public bool IsDefending => isDefending;
+
+    public void PlayAttack(float duration)
+    {
+        attackUntil = Time.time + duration;
+    }
 
     private void Awake()
     {
@@ -53,10 +63,10 @@ public class PlayerMovement : MonoBehaviour
         var kb = Keyboard.current;
         if (kb == null) return;
 
-        isDefending = kb.fKey.isPressed && isGrounded;
+        isDefending = kb.fKey.isPressed && isGrounded && !IsAttacking;
 
         moveInput = 0f;
-        if (!isDefending)
+        if (!isDefending && !IsAttacking)
         {
             if (kb.aKey.isPressed || kb.leftArrowKey.isPressed) moveInput -= 1f;
             if (kb.dKey.isPressed || kb.rightArrowKey.isPressed) moveInput += 1f;
@@ -82,7 +92,8 @@ public class PlayerMovement : MonoBehaviour
         if (anim == null) return;
 
         string next;
-        if (!isGrounded) next = jumpState;
+        if (IsAttacking) next = attackState;
+        else if (!isGrounded) next = jumpState;
         else if (isDefending) next = defenseState;
         else if (moveInput != 0f) next = isRunning ? runState : walkState;
         else next = idleState;

@@ -15,7 +15,7 @@ TagManager:
   - SecondDecorations
   - ThirdDecorations
   - FourthDecorations
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -58,6 +58,9 @@ TagManager:
     locked: 0
   - name: fifth_decorations
     uniqueID: 522245593
+    locked: 0
+  - name: enemy
+    uniqueID: 3952464379
     locked: 0
   - name: player
     uniqueID: 4092656865
