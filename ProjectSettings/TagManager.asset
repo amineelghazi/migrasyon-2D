@@ -89,6 +89,9 @@ TagManager:
   - name: level_ambulance
     uniqueID: 1622568405
     locked: 0
+  - name: citizen
+    uniqueID: 2284163157
+    locked: 0
   - name: player_mere
     uniqueID: 105554357
     locked: 0
