@@ -16,7 +16,7 @@ TagManager:
   - ThirdDecorations
   - FourthDecorations
   - Enemy
-  - 
+  - Citizen
   - 
   - 
   - 
@@ -64,6 +64,39 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 4092656865
+    locked: 0
+  - name: level2-background_fix
+    uniqueID: 1609215307
+    locked: 0
+  - name: level2_background
+    uniqueID: 238687685
+    locked: 0
+  - name: level2_ground
+    uniqueID: 514239595
+    locked: 0
+  - name: level2_walls
+    uniqueID: 2805954571
+    locked: 0
+  - name: level2_decorations
+    uniqueID: 1344747367
+    locked: 0
+  - name: level2_lower_house
+    uniqueID: 2880780061
+    locked: 0
+  - name: level2_food_truck
+    uniqueID: 4048038883
+    locked: 0
+  - name: level_ambulance
+    uniqueID: 1622568405
+    locked: 0
+  - name: citizen
+    uniqueID: 2284163157
+    locked: 0
+  - name: player_mere
+    uniqueID: 105554357
+    locked: 0
+  - name: citizen_text
+    uniqueID: 2368798545
     locked: 0
   m_RenderingLayers:
   - Default

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 9afb9c2d7710293439499ddd4dee62fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9155615640935438165
+    second: maman_platformer_planche_0
+  - first:
+      213: -7557075447618059658
+    second: maman_platformer_planche_1
+  - first:
+      213: 1827006258107289534
+    second: maman_platformer_planche_2
+  - first:
+      213: 282946126659799929
+    second: maman_platformer_planche_3
+  - first:
+      213: -7598314630936749329
+    second: maman_platformer_planche_4
+  - first:
+      213: 2720711241437603840
+    second: maman_platformer_planche_5
+  - first:
+      213: -8364406902972469527
+    second: maman_platformer_planche_6
+  - first:
+      213: 4932117808559090760
+    second: maman_platformer_planche_7
+  - first:
+      213: -892257676476710081
+    second: maman_platformer_planche_8
+  - first:
+      213: -3367034854228520244
+    second: maman_platformer_planche_9
+  - first:
+      213: -3750270866832690206
+    second: maman_platformer_planche_10
+  - first:
+      213: -5798406111657314065
+    second: maman_platformer_planche_11
+  - first:
+      213: 6975283015253649276
+    second: maman_platformer_planche_12
+  - first:
+      213: 8922826127297841064
+    second: maman_platformer_planche_13
+  - first:
+      213: 3087033904430621250
+    second: maman_platformer_planche_14
+  - first:
+      213: 3811896767800997016
+    second: maman_platformer_planche_15
+  - first:
+      213: -3179525782089834250
+    second: maman_platformer_planche_16
+  - first:
+      213: -1000984535381875590
+    second: maman_platformer_planche_17
+  - first:
+      213: -1564533983554660331
+    second: maman_platformer_planche_18
+  - first:
+      213: 4336415932598475283
+    second: maman_platformer_planche_19
+  - first:
+      213: -4653005296228358314
+    second: maman_platformer_planche_20
+  - first:
+      213: 8196824560904019187
+    second: maman_platformer_planche_21
+  - first:
+      213: -1381364004106750807
+    second: maman_platformer_planche_22
+  - first:
+      213: -5026848577282865480
+    second: maman_platformer_planche_23
+  - first:
+      213: 5410266117570138418
+    second: maman_platformer_planche_24
+  - first:
+      213: 7247565215631374465
+    second: maman_platformer_planche_25
+  - first:
+      213: -8943410864277564365
+    second: maman_platformer_planche_26
+  - first:
+      213: -3054028618655042303
+    second: maman_platformer_planche_27
+  - first:
+      213: 8609833682056582409
+    second: maman_platformer_planche_28
+  - first:
+      213: -5277450230188657099
+    second: maman_platformer_planche_29
+  - first:
+      213: 2582495602649115212
+    second: maman_platformer_planche_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maman_platformer_planche_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba868064518b0f080800000000000000
+      internalID: -9155615640935438165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67246e36befdf1790800000000000000
+      internalID: -7557075447618059658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf86e80384da5910800000000000000
+      internalID: 1827006258107289534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b412ac00a3de300800000000000000
+      internalID: 282946126659799929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9c5bc91d5d8690800000000000000
+      internalID: -7598314630936749329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ec4a8578e1c520800000000000000
+      internalID: 2720711241437603840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee208ffc38abeb80800000000000000
+      internalID: -8364406902972469527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cea81f307627440800000000000000
+      internalID: 4932117808559090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338d71ee501e93f0800000000000000
+      internalID: -892257676476710081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2995fa3a3e541d0800000000000000
+      internalID: -3367034854228520244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f0f2348c54fbc0800000000000000
+      internalID: -3750270866832690206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8363bdc5ce78fa0800000000000000
+      internalID: -5798406111657314065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77620c12fe2dc060800000000000000
+      internalID: 6975283015253649276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7892e661f34db70800000000000000
+      internalID: 8922826127297841064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ac23faf857da20800000000000000
+      internalID: 3087033904430621250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894fc3df9e396e430800000000000000
+      internalID: 3811896767800997016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 66
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0e654a52e00e3d0800000000000000
+      internalID: -3179525782089834250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7467e65ed9cb12f0800000000000000
+      internalID: -1000984535381875590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518923791a8a94ae0800000000000000
+      internalID: -1564533983554660331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a50ecb05b0e2c30800000000000000
+      internalID: 4336415932598475283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572c44f5543d6fb0800000000000000
+      internalID: -4653005296228358314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc91ee6288f0c170800000000000000
+      internalID: 8196824560904019187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4b4bdc1c864dce0800000000000000
+      internalID: -1381364004106750807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b680633adb0d3ab0800000000000000
+      internalID: -5026848577282865480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231991e7e50251b40800000000000000
+      internalID: 5410266117570138418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1887f241a26849460800000000000000
+      internalID: 7247565215631374465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334dd52043f92e380800000000000000
+      internalID: -8943410864277564365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105703bf629ed95d0800000000000000
+      internalID: -3054028618655042303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9051d22fd164c7770800000000000000
+      internalID: 8609833682056582409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363dcd0afab2c6b0800000000000000
+      internalID: -5277450230188657099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maman_platformer_planche_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa8e5611ed6d320800000000000000
+      internalID: 2582495602649115212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maman_platformer_planche_0: -9155615640935438165
+      maman_platformer_planche_1: -7557075447618059658
+      maman_platformer_planche_10: -3750270866832690206
+      maman_platformer_planche_11: -5798406111657314065
+      maman_platformer_planche_12: 6975283015253649276
+      maman_platformer_planche_13: 8922826127297841064
+      maman_platformer_planche_14: 3087033904430621250
+      maman_platformer_planche_15: 3811896767800997016
+      maman_platformer_planche_16: -3179525782089834250
+      maman_platformer_planche_17: -1000984535381875590
+      maman_platformer_planche_18: -1564533983554660331
+      maman_platformer_planche_19: 4336415932598475283
+      maman_platformer_planche_2: 1827006258107289534
+      maman_platformer_planche_20: -4653005296228358314
+      maman_platformer_planche_21: 8196824560904019187
+      maman_platformer_planche_22: -1381364004106750807
+      maman_platformer_planche_23: -5026848577282865480
+      maman_platformer_planche_24: 5410266117570138418
+      maman_platformer_planche_25: 7247565215631374465
+      maman_platformer_planche_26: -8943410864277564365
+      maman_platformer_planche_27: -3054028618655042303
+      maman_platformer_planche_28: 8609833682056582409
+      maman_platformer_planche_29: -5277450230188657099
+      maman_platformer_planche_3: 282946126659799929
+      maman_platformer_planche_30: 2582495602649115212
+      maman_platformer_planche_4: -7598314630936749329
+      maman_platformer_planche_5: 2720711241437603840
+      maman_platformer_planche_6: -8364406902972469527
+      maman_platformer_planche_7: 4932117808559090760
+      maman_platformer_planche_8: -892257676476710081
+      maman_platformer_planche_9: -3367034854228520244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
