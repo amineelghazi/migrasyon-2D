@@ -19,7 +19,9 @@ Jeu de plateforme 2D inspiré de l'immigration au Québec dans les années 1970.
 
 ## Aperçu
 
-<img width="691" height="426" alt="image" src="https://github.com/user-attachments/assets/6b696c03-feca-4531-b1cb-8ff32597d73a" />
+<img width="1182" height="740" alt="Screenshot 2026-10-20 141337" src="https://github.com/user-attachments/assets/ade552ff-6e8b-463d-8a2e-34de303c3936" />
+<img width="1188" height="745" alt="image" src="https://github.com/user-attachments/assets/c047f969-5d5f-4b82-b166-2989fe8db0c6" />
+
 
 
 Dans les années 1970, une famille arrive au Québec et se retrouve à la rue. Le père décroche rapidement un emploi en usine, mais y subit insultes et provocations en raison de ses origines. La mère, de son côté, affronte des situations hostiles dans son quotidien.
@@ -54,9 +56,17 @@ La progression est **linéaire** : le joueur suit l'histoire sans possibilité d
 
 ### Niveau 2 : La Mère
 
-**Lieux :** En développement
+**Lieux :** Ville de Montréal
 
 > 🚧 Niveau en cours de développement.
+> <img width="1192" height="742" alt="image" src="https://github.com/user-attachments/assets/319c62ac-5a49-4450-a297-8421edb05ce8" />
+> <img width="1187" height="738" alt="image" src="https://github.com/user-attachments/assets/b7db038b-9d9d-4016-8479-45d7074f31f5" />
+> <img width="1195" height="742" alt="image" src="https://github.com/user-attachments/assets/e417872d-3c28-4b98-a8fb-4c0893445de0" />
+
+
+
+
+
 
 ## Installation
 
