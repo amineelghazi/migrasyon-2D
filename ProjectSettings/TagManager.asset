@@ -65,6 +65,12 @@ TagManager:
   - name: player
     uniqueID: 4092656865
     locked: 0
+  - name: level2-background_fix
+    uniqueID: 1609215307
+    locked: 0
+  - name: level2_background
+    uniqueID: 238687685
+    locked: 0
   - name: level2_ground
     uniqueID: 514239595
     locked: 0
