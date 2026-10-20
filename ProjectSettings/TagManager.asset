@@ -16,7 +16,7 @@ TagManager:
   - ThirdDecorations
   - FourthDecorations
   - Enemy
-  - 
+  - Citizen
   - 
   - 
   - 
@@ -94,6 +94,9 @@ TagManager:
     locked: 0
   - name: player_mere
     uniqueID: 105554357
+    locked: 0
+  - name: citizen_text
+    uniqueID: 2368798545
     locked: 0
   m_RenderingLayers:
   - Default
