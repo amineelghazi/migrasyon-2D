@@ -19211,6 +19211,7 @@ GameObject:
   - component: {fileID: 1500105035}
   - component: {fileID: 1500105034}
   - component: {fileID: 1500105038}
+  - component: {fileID: 1500105039}
   m_Layer: 0
   m_Name: player
   m_TagString: Player
@@ -19380,6 +19381,28 @@ MonoBehaviour:
   jumpState: Jump
   defenseState: Defense
   attackState: Attack
+--- !u!95 &1500105039
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500105033}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 984249540243cab4e959e76124dba790, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1504981295
 GameObject:
   m_ObjectHideFlags: 0
