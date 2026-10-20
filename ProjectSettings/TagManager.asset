@@ -68,8 +68,14 @@ TagManager:
   - name: level2ground
     uniqueID: 514239595
     locked: 0
+  - name: level2walls
+    uniqueID: 2805954571
+    locked: 0
   - name: level2decorations
     uniqueID: 1344747367
+    locked: 0
+  - name: level2_lower_house
+    uniqueID: 2880780061
     locked: 0
   m_RenderingLayers:
   - Default
