@@ -74,7 +74,8 @@ cd migrasyon-2D
 | Déplacement | ← ↑ ↓ → /  WASD |
 | Saut | espace |
 | Interagir | E |
-| Quick Time Event | Clic de souris |
+| Attaque | J |
+| Quick Time Event | Espace |
 
 ## Technologies
 
