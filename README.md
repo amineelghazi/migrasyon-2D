@@ -11,6 +11,7 @@ Jeu de plateforme 2D inspiré de l'immigration au Québec dans les années 1970.
 - [Fonctionnalités](#fonctionnalités)
 - [Niveaux](#niveaux)
 - [Installation](#installation)
+- [Site du jeu](#site)
 - [Contrôles](#contrôles)
 - [Technologies](#technologies)
 - [Crédits](#crédits)
@@ -75,14 +76,19 @@ git clone https://github.com/amineelghazi/migrasyon-2D.git
 cd migrasyon-2D
 ```
 
-> À compléter : étapes pour ouvrir ou lancer le projet (moteur, version, build).
+## Site
+```
+Environnment : PC (Windows / macOs)
+https://play.unity.com/en/games/aefbf502-ab94-4f86-985b-ac710f6e34e7/migrasyon-2d-amine-jason
+```
+
 
 ## Contrôles
 
 | Action | Touche |
 |---|---|
 | Déplacement | ← ↑ ↓ → /  WASD |
-| Saut | espace |
+| Saut | Espace |
 | Interagir | E |
 | Attaque | J |
 | Quick Time Event | Espace |
