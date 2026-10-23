@@ -1,0 +1,7 @@
+# Exclure tous les Shaders et HLSL du projet (y compris dans Assets/)
+*.hlsl linguist-vendored
+*.hlsli linguist-vendored
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.glsl linguist-vendored
+
